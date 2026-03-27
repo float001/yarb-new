@@ -15,11 +15,6 @@
             "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
             "filename": "CyberSecurityRSS.opml"
         },
-        "CyberSecurityRSS-tiny": {
-            "enabled": false,
-            "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/tiny.opml",
-            "filename": "CyberSecurityRSS-tiny.opml"
-        },
         "Chinese-Security-RSS": {
             "enabled": true,
             "url": "https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/Chinese-Security-RSS.opml",
@@ -32,13 +27,8 @@
         },
         "wechatRSS": {
             "enabled": true,
-            "url": "https://raw.githubusercontent.com/ttttmr/Wechat2RSS/master/static/opml/sec.opml",
+            "url": "https://wechat2rss.xlab.app/opml/sec.opml",
             "filename": "wechatRSS.opml"
-        },
-        "chinese-independent-blogs": {
-            "enabled": false,
-            "url": "https://raw.githubusercontent.com/timqian/chinese-independent-blogs/master/feed.opml",
-            "filename": "chinese-independent-blogs.opml"
         }
     },
 
@@ -47,49 +37,58 @@
             "enabled": false,
             "secrets": "FEISHU_KEY",
             "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-        },
-        "wecom": {
-            "enabled": false,
-            "secrets": "WECOM_KEY",
-            "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
-        },
-        "dingtalk": {
-            "enabled": false,
-            "secrets": "DINGTALK_KEY",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-        },
-        "qq": {
-            "enabled": false,
-            "secrets": "QQ_KEY",
-            "qq_id": "2419110059",
-            "group_id": ["808542982", "217863340"],
-            "key": "xxxxxxxxxx"
-        },
-        "telegram":{
-            "enabled": false,
-            "secrets": "TELEGRAM_KEY",
-            "chat_id": ["-799557100"],
-            "key": "xxxxxxxxxx"
-        },
-        "mail": {
-            "enabled": false,
-            "secrets": "MAIL_KEY",
-            "secrets_receiver": "MAIL_RECEIVER",
-            "address": "firmianay@163.com",
-            "server": "smtp.163.com",
-            "from": "security-bot <firmianay@163.com>",
-            "receiver": "a@163.com,b@163.com",
-            "key": "xxxxxxxxxx"
         }
     },
 
+    "github": {
+        "enabled": true,
+        "token_env": "GITHUB_TOKEN",
+        "token": "xxxx1",
+        "owner": "xxxxx",
+        "repo": "xxxx",
+        "path": "today-{hour}.md",
+        "branch": "main",
+        "commit_message": "",
+        "api_base": "https://api.github.com",
+        "use_proxy": false,
+        "sync_archive": true,
+        "archive_path_pattern": "archive/{year}/{stamp}.md",
+        "sync_archive_full": false
+    },
+
+    "deepseek": {
+        "enabled": true,
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "api_key": "xxxxxxx",
+        "base_url": "https://api.deepseek.com/v1",
+        "model": "deepseek-chat",
+        "use_proxy": false,
+        "static_prefilter": true,
+        "max_context_tokens": 4096,
+        "context_safety_margin": 120,
+        "output_tokens_per_title": 32,
+        "max_titles_per_batch": 28,
+        "max_output_tokens_cap": 2048
+    },
+
     "keywords": {
+        "fetch_within_hours": 12,
         "exclude": [
             "招聘", "招生", "开班", "报名", "双非", "倒计时", "圆满", "抽奖",
             "好礼", "福利", "领取", "火热", "热烈", "欢迎", "美女",
             "喜报", "喜讯", "惊喜", "恭喜", "签约", "快乐", "颜值",
             "新冠", "疫情", "疫苗", "核酸",
             "月薪", "年薪"
+        ],
+        "static_non_security": [
+            "阿贝尔奖", "莫德尔", "咖啡", "显示屏", "刷新率", "笔记本屏",
+            "超加工食品", "生育能力", "耐抗生素", "干旱",
+            "极客早知道", "打车，不只是", "WWDC", "定档",
+            "星露谷", "魔兽", "徒步", "新能源车", "国产车",
+            "Science", "诺贝尔", "物理学奖", "量子计算",
+            "Arm公司宣布", "NASA", "月球", "空间站",
+            " rtl-sdr", "天线", "短波", "收音机",
+            "SCIOPERO", " giornalisti", "罗马", "记者罢工"
         ]
     }
 }

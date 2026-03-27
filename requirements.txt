@@ -8,4 +8,5 @@ python-telegram-bot
 PySocks
 pyrate-limiter
 poetry
+python-dateutil
 git+https://github.com/kurtmckee/listparser
