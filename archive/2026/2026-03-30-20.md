@@ -1,0 +1,282 @@
+# 每日安全资讯（2026-03-30 20:00）
+
+- Sploitus.com Exploits RSS Feed
+  - [test-xss exploit](https://sploitus.com/exploit?id=445F8CB5-D0CD-53D4-A030-4F47F5712BEB&utm_source=rss&utm_medium=rss)
+  - [RegPwnBOF exploit](https://sploitus.com/exploit?id=930D6CE1-864B-5627-AC4D-F2FBA5E24A0E&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Apache Commons_Text exploit](https://sploitus.com/exploit?id=B58C5702-AFD1-581C-9B3B-DE2BC5394245&utm_source=rss&utm_medium=rss)
+  - [tudo-exploits-oswe-prep exploit](https://sploitus.com/exploit?id=5091E9A0-59E2-57D6-9F2E-26DEA09CE823&utm_source=rss&utm_medium=rss)
+  - [Zero-Trust-Browser-PoC-Pages exploit](https://sploitus.com/exploit?id=F6E62C2E-0519-5DA3-8095-5F5D1412CDE2&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Access Control in Apache Hugegraph exploit](https://sploitus.com/exploit?id=CEE028DE-8456-5515-BA5D-B9BC2352D5ED&utm_source=rss&utm_medium=rss)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [攻击者滥用.arpa 特殊域名与IPv6反向DNS实施钓鱼攻击](https://www.4hou.com/posts/Zg5g)
+  - [嘶吼安全动态｜国家安全部：搜索引擎排名遭 “投毒”，恶意链接暗藏窃取风险 谷歌发布高风险Chrome安全更新](https://www.4hou.com/posts/kgJJ)
+- 2Libra 社区 - 今日热议
+  - [【投票】奥地利政府计划禁止儿童使用社交媒体](https://2libra.com/post/social-observation/XBY-h0w)
+- iDiallo.com
+- Sec-News 安全文摘
+- The Silicon Underground
+- WIRED
+  - [The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged](https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/)
+- Recent Commits to cve:main
+- 少数派
+- Product Hunt — The best new products, every day
+- InfoSec Write-ups - Medium
+  - [MobSF Exists for Mobile - So I Built One for the Web: Meet Argus](https://infosecwriteups.com/mobsf-exists-for-mobile-so-i-built-one-for-the-web-meet-argus-6fbaf37557c8?source=rss----7b722bfd1b8d---4)
+  - [VulnCorp CTF by INE: The Moment I Wanted to Quit, But I Didn’t](https://infosecwriteups.com/vulncorp-ctf-by-ine-the-moment-i-wanted-to-quit-but-didnt-81772fe065c5?source=rss----7b722bfd1b8d---4)
+  - [From Paste Site to Payout: How a Single Dump Led to a Critical Bug](https://infosecwriteups.com/from-paste-site-to-payout-how-a-single-dump-led-to-a-critical-bug-56bf0677d1cf?source=rss----7b722bfd1b8d---4)
+  - [Proving Grounds — Practice — Heist](https://infosecwriteups.com/proving-grounds-practice-heist-ed0bef92cc02?source=rss----7b722bfd1b8d---4)
+  - [SSRF to Admin Access: When a “Harmless URL” Took Me Straight to the Kingdom](https://infosecwriteups.com/ssrf-to-admin-access-when-a-harmless-url-took-me-straight-to-the-kingdom-000815d0725d?source=rss----7b722bfd1b8d---4)
+  - [The Phantom Edge: A Cloudflare Pastejacking Attack | Farros](https://infosecwriteups.com/the-phantom-edge-a-cloudflare-pastejacking-attack-farros-28e3889aa365?source=rss----7b722bfd1b8d---4)
+- TechCrunch
+- HackerNoon
+  - [Move Fast, Patch Slower? The Endpoint Management Tradeoff Haunting SaaS Startups](https://hackernoon.com/move-fast-patch-slower-the-endpoint-management-tradeoff-haunting-saas-startups?source=rss)
+- 爱范儿
+- MIT Technology Review
+- unSafe.sh - 不安全
+  - [ShinyHunters 声称入侵欧盟委员会](https://buaq.net/go-406090.html)
+  - [嘶吼安全动态｜国家安全部：搜索引擎排名遭 “投毒”，恶意链接暗藏窃取风险 谷歌发布高风险Chrome安全更新](https://buaq.net/go-406089.html)
+  - [FIFA World Cup 2026: A Match Between Fans and Scammers](https://buaq.net/go-406105.html)
+  - [MobSF Exists for Mobile - So I Built One for the Web: Meet Argus](https://buaq.net/go-406156.html)
+  - [攻击者滥用.arpa 特殊域名与IPv6反向DNS实施钓鱼攻击](https://buaq.net/go-406088.html)
+  - [LangDrained: Path traversal, SQL injection, and Deserialization of untrusted data in LangChain](https://buaq.net/go-406131.html)
+  - [The Phantom Edge: A Cloudflare Pastejacking Attack | Farros](https://buaq.net/go-406161.html)
+  - [ISC Stormcast For Monday, March 30th, 2026 https://isc.sans.edu/podcastdetail/9870, (Mon, Mar 30th)](https://buaq.net/go-406079.html)
+  - [Planning a spring break trip? Don’t fall for these 7 travel scams](https://buaq.net/go-406108.html)
+  - [Smart Slider 插件文件读取漏洞影响 50 万 WordPress 网站](https://buaq.net/go-406091.html)
+  - [FBI 确认局长帕特尔个人邮箱遭入侵](https://buaq.net/go-406092.html)
+  - [爱泼斯坦受害者起诉谷歌与政府涉泄露个资](https://buaq.net/go-406095.html)
+  - [The Hidden Tracking Risk Inside Your Tires](https://buaq.net/go-406106.html)
+  - [The EU CRA – Treating Cybersecurity as Product Liability](https://buaq.net/go-406125.html)
+  - [New macOS Infinity Stealer uses Nuitka Python payload and ClickFix](https://buaq.net/go-406154.html)
+  - [The Team PCP Snowball Effect: A Quantitative Analysis](https://buaq.net/go-406173.html)
+  - [DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)](https://buaq.net/go-406080.html)
+  - [Attribute-Based Access Control for AI Capability Negotiation](https://buaq.net/go-406082.html)
+  - [How was early viruses like you are an idiiot or iloveyou so effective?](https://buaq.net/go-406084.html)
+  - [Telnyx PyPI 包遭入侵：恶意代码隐藏于 WAV 音频文件](https://buaq.net/go-406096.html)
+  - [Citrix NetScaler 关键漏洞遭主动侦察，内存越界读取风险加剧](https://buaq.net/go-406097.html)
+  - [What’s an OPSEC mistake that seems harmless but could realistically be exploited?](https://buaq.net/go-406111.html)
+  - [警惕 OpenClaw：AI 主权代理时代，网络安全迎来致命第四维](https://buaq.net/go-406121.html)
+  - [攻击者滥用.arpa特殊域名与IPv6反向DNS实施钓鱼攻击](https://buaq.net/go-406127.html)
+  - [A week in security (March 23 &#8211; March 29)](https://buaq.net/go-406139.html)
+  - [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://buaq.net/go-406147.html)
+  - [Russia-linked APT TA446 uses DarkSword exploit to target iPhone users in phishing wave](https://buaq.net/go-406155.html)
+  - [blind ssti detection on java app, no output, no delay, how to identify template engine?](https://buaq.net/go-406172.html)
+  - [Cybersecurity Is a Calling, Not Just a Career — Dr. Priyanka Sunder (PD) on Women Leading the Charge](https://buaq.net/go-406179.html)
+  - [get access to telegram acc of someone by a stream discord? heard about that](https://buaq.net/go-406067.html)
+  - [Microsoft’s March Security Update of High-Risk Vulnerability Notice for Multiple Products](https://buaq.net/go-406107.html)
+  - [RSAC 2026大会上的重磅产品](https://buaq.net/go-406110.html)
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://buaq.net/go-406140.html)
+  - [From Paste Site to Payout: How a Single Dump Led to a Critical Bug](https://buaq.net/go-406158.html)
+  - [Latvia Warns of Disinformation Campaign Targeting Baltic States](https://buaq.net/go-406146.html)
+  - [Smart Homes Are Getting Smarter—But Post-Breach Guidance Is Falling Behind](https://buaq.net/go-406148.html)
+  - [New widespread EvilTokens kit: device code phishing as-a-service – Part 1](https://buaq.net/go-406149.html)
+  - [Proving Grounds — Practice — Heist](https://buaq.net/go-406159.html)
+  - [SSRF to Admin Access: When a “Harmless URL” Took Me Straight to the Kingdom](https://buaq.net/go-406142.html)
+  - [新型 Infinity Stealer 恶意软件利用 ClickFix 诱骗窃取 macOS 数据](https://buaq.net/go-406094.html)
+  - [奥地利政府计划禁止儿童使用社交媒体](https://buaq.net/go-406115.html)
+  - [European Commission Confirms Cyberattack, Probes Possible Data Theft from Websites](https://buaq.net/go-406119.html)
+  - [《AI模型安全评估及围栏技术应用指南》 调研正式启动，诚邀厂商共筑AI安全生态！](https://buaq.net/go-406124.html)
+  - [嘶吼安全动态｜搜索引擎排名遭 “投毒”，恶意链接暗藏窃取风险 谷歌发布高风险Chrome安全更新](https://buaq.net/go-406128.html)
+  - [从“信息引用”到“认知争夺”：GEO污染正在成为品牌治理的隐形战场](https://buaq.net/go-406129.html)
+  - [VulnCorp CTF by INE: The Moment I Wanted to Quit, But I Didn’t](https://buaq.net/go-406157.html)
+  - [Hackers Impersonate Ukrainian CERT to Plant a RAT on Government, Hospital Networks](https://buaq.net/go-406180.html)
+  - [European Commission confirms data breach after Europa.eu hack](https://buaq.net/go-406150.html)
+  - [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://buaq.net/go-406151.html)
+  - [Hackers Circle Citrix NetScaler Flaw Within Hours of Disclosure](https://buaq.net/go-406153.html)
+  - [《智能体数据处理安全要求》国标制定申请的初步思考](https://buaq.net/go-406166.html)
+  - [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://buaq.net/go-406182.html)
+  - [RSAC 2026 Marked a Turning Point for AppSec. The Reason – Agentic Security](https://buaq.net/go-406185.html)
+  - [Critical Fortinet FortiClient EMS flaw exploited for Remote Code Execution](https://buaq.net/go-406186.html)
+  - [Move Fast, Patch Slower? The Endpoint Management Tradeoff Haunting SaaS Startups](https://buaq.net/go-406190.html)
+  - [Quick 15 min interview for ethical hacking class](https://buaq.net/go-406112.html)
+  - [大模型对威胁情报来说可能并不可靠](https://buaq.net/go-406126.html)
+  - [勒索软件组织将目标瞄准波斯语系统](https://buaq.net/go-406144.html)
+  - [OpenAI 利用 Cloudflare 程序防 AI 爬虫抓取](https://buaq.net/go-406145.html)
+  - [反编译白宫 app 会被定点……吗？](https://buaq.net/go-406162.html)
+  - [今日（2026年3月30日）OpenClaw 最新安全动态总结](https://buaq.net/go-406167.html)
+  - [Cybersecurity Strategy Planning: The Essential Reset for Security Teams and Leaders in 2026](https://buaq.net/go-406183.html)
+  - [Oops, all Interviews: Switching to Cyber, CISO Reflections, and the State of TPCRM - Alexandre Sieira, Lenny Zeltser, Helen Patton - ESW #452](https://buaq.net/go-406184.html)
+  - [通信与隧道技术——隐蔽通信通道的构建](https://buaq.net/go-406163.html)
+  - [【2026春节领红包】解题过程，纯手工分析（第八题、第十题未解出](https://buaq.net/go-406165.html)
+  - [深伪时代，OSINT最大的敌人不是假视频，而是"真假都没人信"](https://buaq.net/go-406170.html)
+  - [Claude Mythos泄露草稿深度解读](https://buaq.net/go-406195.html)
+- Andrew Nesbitt
+  - [Git Diff Drivers](https://nesbitt.io/2026/03/30/git-diff-drivers.html)
+- Machine Learning
+- The Decoder
+- 36氪
+  - [氪星晚报｜全国首个万卡级全栈自主可控智算集群点亮；泡泡玛特乐园门票将涨价；蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复](https://36kr.com/p/3745267391103239?f=rss)
+- Hacker News: Front Page
+  - [Philly courts will ban all smart eyeglasses starting next week](https://www.inquirer.com/news/philadelphia/smart-glasses-ai-meta-courts-20260326.html)
+- 博客
+- Terence Eden’s Blog
+- 奇安信 CERT
+  - [今日（2026年3月30日）OpenClaw 最新安全动态总结](https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247504885&idx=1&sn=3534974f700f8f31b2eab3c54f7176ed)
+- 极客公园
+- 嘶吼专业版
+  - [攻击者滥用.arpa特殊域名与IPv6反向DNS实施钓鱼攻击](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587454&idx=1&sn=11f0a32adb34bfb9df987464c6ac1976)
+  - [嘶吼安全动态｜搜索引擎排名遭 “投毒”，恶意链接暗藏窃取风险 谷歌发布高风险Chrome安全更新](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247587454&idx=2&sn=8b39b4c9e47ca14a431bac0af8e16b57)
+- 情报分析师
+  - [深伪时代，OSINT最大的敌人不是假视频，而是"真假都没人信"](https://mp.weixin.qq.com/s?__biz=MzA3Mjc1MTkwOA==&mid=2650567396&idx=3&sn=721415fe8d08fea197408123330ae7e1)
+- 安全分析与研究
+  - [通信与隧道技术——隐蔽通信通道的构建](https://mp.weixin.qq.com/s?__biz=MzA4ODEyODA3MQ==&mid=2247496625&idx=1&sn=9b6acb2f0a44a5a5f0718018c92d22ff)
+- The Verge
+- 量子位
+- 看雪学苑
+  - [SUCTF2026 Ez_Router](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612768&idx=1&sn=705aeb8b7ae7dcb9affa5470d88d2132)
+  - [新型“Infinity”恶意软件正在通过假验证页面疯狂传播](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612768&idx=2&sn=7e7083b23eb659baa047e16744af935d)
+  - [【更新2节】冰与火的战歌：Windows内核攻防实战](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458612768&idx=3&sn=94a8c33a9ace07b6cd75e080d335db7f)
+- 吾爱破解论坛
+  - [【2026春节领红包】解题过程，纯手工分析（第八题、第十题未解出](https://mp.weixin.qq.com/s?__biz=MjM5Mjc3MDM2Mw==&mid=2651144146&idx=1&sn=46f307dd70f4af1ffac9fc85baac5313)
+- IEEE Spectrum
+- Daily CyberSecurity
+  - [ClickFix: The High-ROI “Living-off-the-Land” Trap Sweeping Windows and macOS](https://securityonline.info/clickfix-social-engineering-malware-lures-apt28-lotl/)
+  - [EU Confirms Data Exfiltration in Attack on Europa.eu Cloud Infrastructure](https://securityonline.info/european-commission-europa-eu-cloud-security-breach/)
+  - [Vim Under Fire: High-Severity “Tabpanel” Bug Allows RCE via Simple File Open](https://securityonline.info/vim-critical-rce-modeline-tabpanel-bug-chain-patch/)
+  - [Critical libfuse io_uring Vulnerabilities Threaten Linux and Kubernetes Infrastructure](https://securityonline.info/libfuse-io-uring-vulnerabilities-cve-2026-33150-cve-2026-33179/)
+  - [The Anonymity Myth: How the FBI Unmasked a “Hide My Email” User in Under 48 Hours](https://securityonline.info/apple-hide-my-email-fbi-investigation-alden-ruml-unmasked/)
+  - [The Update That Vanished: Why Microsoft Hastily Rescinded Windows 11 KB5079391](https://securityonline.info/windows-11-kb5079391-update-rescinded-error-0x80073712/)
+  - [Scriban’s “Leaky” Cache: A 9.1 CVSS Sandbox Escape Hits 40 Million .NET Installs](https://securityonline.info/scriban-dotnet-vulnerability-sandbox-escape-cache-bypass/)
+  - [Infiltrating the Infiltrators: Inside the Florida “Laptop Farm” and the DPRK’s Failed Strike on a Cyber Firm](https://securityonline.info/dprk-it-worker-laptop-farm-nisos-insider-threat-ai-scam/)
+  - [The Spider’s Web: How Iranian Hackers Compromised FBI Director Kash Patel’s Personal Gmail](https://securityonline.info/fbi-director-kash-patel-personal-email-hack-handala-team/)
+  - [The Quantum Apocalypse 2029: Why Google is Rushing to Build an “Unholy Fortress” for Android](https://securityonline.info/google-q-day-2029-android-post-quantum-cryptography-roadmap/)
+  - [The Stealth Skimmer: How Hackers Weaponized WebRTC to Bypass PCI Security and Siphon Credit Cards](https://securityonline.info/webrtc-web-skimming-magecart-bypass-csp-waf-2026/)
+  - [The “Gentlemen” Ransomware Toolkit and the Lethal z1.bat Pre-Encryption Weapon](https://securityonline.info/the-gentlemen-ransomware-toolkit-z1-bat-scorched-earth-script/)
+  - [The CVE Watchtower: Weekly Threat Intelligence Briefing (March 23 – March 29, 2026)](https://securityonline.info/weekly-vulnerability-roundup-march-23-29-2026-cisa-kev-trivy/)
+- 奇客Solidot–传递最新科技情报
+  - [勒索软件组织将目标瞄准波斯语系统](https://www.solidot.org/story?sid=83911)
+  - [OpenAI 利用 Cloudflare 程序防 AI 爬虫抓取](https://www.solidot.org/story?sid=83910)
+- 非尝咸鱼贩
+  - [反编译白宫 app 会被定点……吗？](https://mp.weixin.qq.com/s?__biz=Mzk0NDE3MTkzNQ==&mid=2247485893&idx=1&sn=d11b1e647837ddcbf4a42bcdd50f8c4f)
+- 安全牛
+  - [警惕 OpenClaw：AI 主权代理时代，网络安全迎来致命第四维](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140919&idx=1&sn=d2f06eb3c17213fb62a94937c80ab07b)
+  - [《AI模型安全评估及围栏技术应用指南》 调研正式启动，诚邀厂商共筑AI安全生态！](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140919&idx=2&sn=17b07074b85e47bf4a954cbc8232c1d7)
+- HackerNews
+  - [ShinyHunters 声称入侵欧盟委员会](https://hackernews.cc/archives/63969)
+  - [Smart Slider 插件文件读取漏洞影响 50 万 WordPress 网站](https://hackernews.cc/archives/63968)
+  - [FBI 确认局长帕特尔个人邮箱遭入侵](https://hackernews.cc/archives/63967)
+  - [新型 Infinity Stealer 恶意软件利用 ClickFix 诱骗窃取 macOS 数据](https://hackernews.cc/archives/63966)
+  - [Telnyx PyPI 包遭入侵：恶意代码隐藏于 WAV 音频文件](https://hackernews.cc/archives/63965)
+  - [Citrix NetScaler 关键漏洞遭主动侦察，内存越界读取风险加剧](https://hackernews.cc/archives/63964)
+- RedPacket Security
+  - [[SARCOMA] – Ransomware Victim: GYF](https://www.redpacketsecurity.com/sarcoma-ransomware-victim-gyf/)
+  - [[HANDALA] – Ransomware Victim: 4 Terabytes Wiped—Good Food Store Shut Down After Major Cyberattack](https://www.redpacketsecurity.com/handala-ransomware-victim-4-terabytes-wiped-good-food-store-shut-down-after-major-cyberattack/)
+  - [[LOCKBIT5] – Ransomware Victim: ombudsman[.]gov[.]ws](https://www.redpacketsecurity.com/lockbit5-ransomware-victim-ombudsman-gov-ws/)
+  - [[LOCKBIT5] – Ransomware Victim: rovinj-rovigno[.]hr](https://www.redpacketsecurity.com/lockbit5-ransomware-victim-rovinj-rovigno-hr/)
+  - [[LOCKBIT5] – Ransomware Victim: jean[.]com[.]tw](https://www.redpacketsecurity.com/lockbit5-ransomware-victim-jean-com-tw/)
+  - [[CLOP] – Ransomware Victim: AIGHEALTHCARE[.]IN](https://www.redpacketsecurity.com/clop-ransomware-victim-aighealthcare-in/)
+  - [[LOCKBIT5] – Ransomware Victim: breastcare[.]com](https://www.redpacketsecurity.com/lockbit5-ransomware-victim-breastcare-com/)
+  - [[CLOP] – Ransomware Victim: CLOUD[.]CLEARWAYGROUP[.]COM](https://www.redpacketsecurity.com/clop-ransomware-victim-cloud-clearwaygroup-com/)
+  - [[LOCKBIT5] – Ransomware Victim: isoledilcappotti[.]it](https://www.redpacketsecurity.com/lockbit5-ransomware-victim-isoledilcappotti-it/)
+  - [[LOCKBIT5] – Ransomware Victim: sesi[.]org[.]br](https://www.redpacketsecurity.com/lockbit5-ransomware-victim-sesi-org-br/)
+- defend.network – Daily Threat Briefings
+  - [Daily Threat Briefing – March 30, 2026](https://defend.network/briefings/iran-fbi-director-breach-critical-exploits-2026-03-30.html)
+- VulDB Recent Entries
+  - [CVE-2026-5128 | ArthurFiorette steam-trader 2.1.1 API Endpoint /users information disclosure](https://vuldb.com/vuln/354164)
+  - [CVE-2025-3716 | ESET Protect prior 12.1.1.0 response discrepancy (EUVD-2025-209122)](https://vuldb.com/vuln/354163)
+  - [CVE-2026-4416 | GIGABYTE Control Center prior 25.12.31.01 Performance Library deserialization](https://vuldb.com/vuln/354162)
+  - [CVE-2026-25704 | pop-os cosmic-greeter privilege dropping (ID 426 / EUVD-2026-17067)](https://vuldb.com/vuln/354161)
+  - [CVE-2026-5121 | libarchive on 32-bit ISO9660 Image Parser heap-based overflow](https://vuldb.com/vuln/354160)
+  - [CVE-2026-4415 | GIGABYTE Control Center up to 25.07.21.01 path traversal (EUVD-2026-17069)](https://vuldb.com/vuln/354159)
+  - [CVE-2026-5126 | SourceCodester RSS Feed Parser 1.0 file_get_contents server-side request forgery](https://vuldb.com/vuln/354158)
+  - [CVE-2026-5125 | raine consult-llm-mcp up to 2.5.3 src/server.ts child_process.execSync git_diff.base_ref/git_diff.files os command injection](https://vuldb.com/vuln/354157)
+  - [CVE-2026-5124 | osrg GoBGP up to 4.3.0 BGP Header pkg/packet/bgp/bgp.go BGPHeader.DecodeFromBytes access control (ID 3340)](https://vuldb.com/vuln/354156)
+  - [CVE-2026-5123 | osrg GoBGP up to 4.3.0 pkg/packet/bgp/bgp.go DecodeFromBytes data[1] off-by-one (ID 3342)](https://vuldb.com/vuln/354155)
+  - [CVE-2026-5122 | osrg GoBGP up to 4.3.0 BGP OPEN Message pkg/packet/bgp/bgp.go DecodeFromBytes domainNameLen access control (ID 3343)](https://vuldb.com/vuln/354154)
+  - [CVE-2026-2328 | WAGO Device Sphere/Solution Builder up to 1.2.1 improper filtering of special elements (VDE-2026-010 / EUVD-2026-17064)](https://vuldb.com/vuln/354153)
+  - [CVE-2026-5119 | GNOME libsoup HTTP Proxy cleartext transmission (EUVD-2026-17062)](https://vuldb.com/vuln/354152)
+  - [CVE-2025-15379 | MLflow up to 3.8.1 Model _install_model_dependencies_to_env command injection (EUVD-2025-209121)](https://vuldb.com/vuln/354151)
+  - [CVE-2026-3945 | tinyproxy up to 1.11.3 Chunk strtol integer overflow (EUVD-2026-17066)](https://vuldb.com/vuln/354150)
+  - [CVE-2026-21715 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 File Existence fs.realpathSync.native information disclosure (Nessus ID 304242)](https://vuldb.com/vuln/354149)
+  - [CVE-2026-21717 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 V8 Handler JSON.parse denial of service (Nessus ID 304242)](https://vuldb.com/vuln/354148)
+  - [CVE-2026-21714 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 HTTP/2 Server resource consumption (Nessus ID 304242)](https://vuldb.com/vuln/354147)
+  - [CVE-2026-21713 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 HMAC Verification crypto_hmac.cc memcmp comparison (Nessus ID 304242)](https://vuldb.com/vuln/354146)
+  - [CVE-2026-21712 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 URL node_url.cc url.format assertion](https://vuldb.com/vuln/354145)
+  - [CVE-2026-21711 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 UDS Server permission (Nessus ID 304140)](https://vuldb.com/vuln/354144)
+  - [CVE-2026-21710 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 req.headersDistinct denial of service (Nessus ID 304242)](https://vuldb.com/vuln/354143)
+  - [CVE-2026-33691 | OWASP coreruleset up to 3.3.8/4.24.x Whitespace case sensitivity](https://vuldb.com/vuln/354142)
+  - [CVE-2026-2370 | GitLab Community Edition/Enterprise Edition up to 18.8.6/18.9.2/18.10.0 parameters (EUVD-2026-17046)](https://vuldb.com/vuln/354141)
+  - [CVE-2026-3124 | wpchill Download Monitor Plugin up to 5.1.7 on WordPress executePayment authorization (EUVD-2026-17052)](https://vuldb.com/vuln/354140)
+  - [CVE-2025-15036 | MLflow up to 3.8.x dbconnect_artifact_cache.py extract_archive_to_dir path traversal (EUVD-2025-209119)](https://vuldb.com/vuln/354139)
+  - [CVE-2026-4946 | NSA Ghidra up to 12.0.2 Binary os command injection (GHSA-mc3p-mq2p-xw6v / EUVD-2026-17042)](https://vuldb.com/vuln/354138)
+  - [CVE-2026-0562 | parisneo lollms up to 2.1.x respond_request authorization (EUVD-2026-17039)](https://vuldb.com/vuln/354137)
+  - [CVE-2026-0560 | parisneo lollms up to 2.1.x export-content _download_image_to_temp server-side request forgery (EUVD-2026-17037)](https://vuldb.com/vuln/354136)
+  - [CVE-2026-4176 | SHAY perl up to 5.43.8 Compress Compress::Raw vulnerable third-party component (EUVD-2026-17044)](https://vuldb.com/vuln/354135)
+  - [CVE-2026-0558 | parisneo lollms up to 2.1.x Endpoint /api/files/extract-text get_current_active_user improper authentication (EUVD-2026-17035)](https://vuldb.com/vuln/354134)
+  - [CVE-2025-7741 | Yokogawa Electric CENTUM VP up to R5.04.20/R6.12.00/R7.01.00 hard-coded password (EUVD-2025-209116)](https://vuldb.com/vuln/354133)
+- 迪哥讲事
+  - [一次意外的接口测试](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499234&idx=1&sn=31d4885faa624cacab5e69be936ec4f4)
+- 威胁棱镜
+  - [大模型对威胁情报来说可能并不可靠](https://mp.weixin.qq.com/s?__biz=MzkyMzE5ODExNQ==&mid=2247488555&idx=1&sn=7fae151c7499b47740586e1522637552)
+- 威胁猎人Threat Hunter
+  - [从“信息引用”到“认知争夺”：GEO污染正在成为品牌治理的隐形战场](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503074&idx=1&sn=c1216c5cc600ef1f0dabf3476f727d97)
+- 数世咨询
+  - [工业企业的安全：保护“僵尸”基础设施](https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247542265&idx=1&sn=d7f49aa2e9d1dddd22af9e3aea0667c2)
+- Bug Bounty in InfoSec Write-ups on Medium
+  - [From Paste Site to Payout: How a Single Dump Led to a Critical Bug](https://infosecwriteups.com/from-paste-site-to-payout-how-a-single-dump-led-to-a-critical-bug-56bf0677d1cf?source=rss----7b722bfd1b8d--bug_bounty)
+  - [SSRF to Admin Access: When a “Harmless URL” Took Me Straight to the Kingdom](https://infosecwriteups.com/ssrf-to-admin-access-when-a-harmless-url-took-me-straight-to-the-kingdom-000815d0725d?source=rss----7b722bfd1b8d--bug_bounty)
+- Pentesting
+  - [What’s your perspective on AI doing pentesting work?](https://www.reddit.com/r/Pentesting/comments/1s7h373/whats_your_perspective_on_ai_doing_pentesting_work/)
+- Cerbero Blog
+  - [ACE Format Package](https://blog.cerbero.io/ace-format-package/)
+- 网安寻路人
+  - [《智能体数据处理安全要求》国标制定申请的初步思考](https://mp.weixin.qq.com/s?__biz=MzIxODM0NDU4MQ==&mid=2247508207&idx=1&sn=df426e0315fa79bc1ea67932b8274a41)
+- Malwarebytes
+  - [A week in security (March 23 &#8211; March 29)](https://www.malwarebytes.com/blog/news/2026/03/a-week-in-security-march-23-march-29)
+- Reverse Engineering
+  - [/r/ReverseEngineering's Weekly Questions Thread](https://www.reddit.com/r/ReverseEngineering/comments/1s7je39/rreverseengineerings_weekly_questions_thread/)
+  - [I made a wave shooter where the challenge is bypassing its own anti-cheat](https://www.reddit.com/r/ReverseEngineering/comments/1s7ehqk/i_made_a_wave_shooter_where_the_challenge_is/)
+- Checkmarx
+  - [RSAC 2026 Marked a Turning Point for AppSec. The Reason – Agentic Security](https://checkmarx.com/blog/rsac-2026-marked-a-turning-point-for-appsec-the-reason-agentic-security/)
+- 人言兑
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [柬埔寨打击网诈以挽回中国游客信心](https://blog.upx8.com/%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%89%93%E5%87%BB%E7%BD%91%E8%AF%88%E4%BB%A5%E6%8C%BD%E5%9B%9E%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BF%A1%E5%BF%83)
+- 先进攻防
+  - [Claude Mythos泄露草稿深度解读](https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908874&idx=1&sn=040ec1eeaf249ee3cfcbb563aafe9705)
+- Over Security - Cybersecurity news aggregator
+  - [ANY.RUN at RSAC™ 2026: Highlights & Industry Recognition](https://any.run/cybersecurity-blog/rsac-2026-highlights/)
+  - [Hackers now exploit critical F5 BIG-IP flaw in attacks, patch now](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-f5-big-ip-flaw-in-attacks-patch-now/)
+  - [AI-Fueled Cyberattacks Surge in UAE Amid Rising Regional Tensions](https://thecyberexpress.com/uae-cyberattacks-surge-as-cyber-threats-fuels/)
+  - [Cybersecurity Is a Calling, Not Just a Career — Dr. Priyanka Sunder (PD) on Women Leading the Charge](https://thecyberexpress.com/dr-priyanka-sunder-interview/)
+  - [Hackers Impersonate Ukrainian CERT to Plant a RAT on Government, Hospital Networks](https://thecyberexpress.com/hackers-impersonate-cert-ua-agewheeze-rat/)
+  - [Cybersecurity Strategy Planning: The Essential Reset for Security Teams and Leaders in 2026](https://www.group-ib.com/blog/cybersecurity-strategy-planning-2026/)
+  - [Latvia Warns of Disinformation Campaign Targeting Baltic States](https://thecyberexpress.com/russian-information-operation-baltic-tensions/)
+  - [Critical Fortinet Forticlient EMS flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-forticlient-ems-flaw-now-exploited-in-attacks/)
+  - [Smart Homes Are Getting Smarter—But Post-Breach Guidance Is Falling Behind](https://thecyberexpress.com/smart-home-breach-guidance-leipzig/)
+  - [New widespread EvilTokens kit: device code phishing as-a-service – Part 1](https://blog.sekoia.io/new-widespread-eviltokens-kit-device-code-phishing-as-a-service-part-1/)
+  - [European Commission confirms data breach after Europa.eu hack](https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-breach-after-europaeu-hack/)
+  - [Hackers Circle Citrix NetScaler Flaw Within Hours of Disclosure](https://thecyberexpress.com/cve-2026-3055-citrix-netscaler-saml-idp/)
+  - [European Commission Confirms Cyberattack, Probes Possible Data Theft from Websites](https://thecyberexpress.com/european-commission-cyberattack/)
+- 安全行者老霍
+  - [RSAC 2026大会上的重磅产品](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486313&idx=1&sn=163d772b61ef20e9323cb2627b6168c5)
+- 杨龙
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Monday, March 30th, 2026 https://isc.sans.edu/podcastdetail/9870, (Mon, Mar 30th)](https://isc.sans.edu/diary/rss/32844)
+- Security Weekly Podcast Network (Audio)
+  - [Oops, all Interviews: Switching to Cyber, CISO Reflections, and the State of TPCRM - Alexandre Sieira, Lenny Zeltser, Helen Patton - ESW #452](http://sites.libsyn.com/18678/oops-all-interviews-switching-to-cyber-ciso-reflections-and-the-state-of-tpcrm-alexandre-sieira-lenny-zeltser-helen-patton-esw-452)
+- Your Open Hacker Community
+  - [blind ssti detection on java app, no output, no delay, how to identify template engine?](https://www.reddit.com/r/HowToHack/comments/1s7m30i/blind_ssti_detection_on_java_app_no_output_no/)
+  - [How was early viruses like you are an idiiot or iloveyou so effective?](https://www.reddit.com/r/HowToHack/comments/1s7e8ky/how_was_early_viruses_like_you_are_an_idiiot_or/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [What’s an OPSEC mistake that seems harmless but could realistically be exploited?](https://www.reddit.com/r/netsecstudents/comments/1s7fvy3/whats_an_opsec_mistake_that_seems_harmless_but/)
+  - [Quick 15 min interview for ethical hacking class](https://www.reddit.com/r/netsecstudents/comments/1s7ffgd/quick_15_min_interview_for_ethical_hacking_class/)
+- Computer Forensics
+  - [SOC tools](https://www.reddit.com/r/computerforensics/comments/1s7o9o5/soc_tools/)
+- Technical Information Security Content & Discussion
+  - [LangDrained: Path traversal, SQL injection, and Deserialization of untrusted data in LangChain](https://www.reddit.com/r/netsec/comments/1s7jexg/langdrained_path_traversal_sql_injection_and/)
+- The Hacker News
+  - [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
+  - [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+  - [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
+- Information Security
+  - [Guide to setup home lab for ISO27001](https://www.reddit.com/r/Information_Security/comments/1s7bzmj/guide_to_setup_home_lab_for_iso27001/)
+  - [Guide to build a lab to practice cyber security](https://www.reddit.com/r/Information_Security/comments/1s7by2b/guide_to_build_a_lab_to_practice_cyber_security/)
+- ICT Security Magazine
+  - [Handala viola l’email personale del Direttore dell’FBI Kash Patel: la risposta dell’Iran alla guerra cyber](https://www.ictsecuritymagazine.com/notizie/handala-fbi-kash-patel/)
+  - [Iran cyber warfare: 30 giorni di guerra digitale](https://www.ictsecuritymagazine.com/cyber-warfare/iran-cyber-warfare/)
+  - [Commissione Europea violata: ShinyHunters rivendica oltre 350 GB sottratti dall’infrastruttura AWS](https://www.ictsecuritymagazine.com/notizie/commissione-europea-violata/)
+  - [Attacchi informatici ai dispositivi medicali: rischi per pazienti e ospedali](https://www.ictsecuritymagazine.com/articoli/dispositivi-medicali/)
+- Security Affairs
+  - [Critical Fortinet FortiClient EMS flaw exploited for Remote Code Execution](https://securityaffairs.com/190158/security/critical-fortinet-forticlient-ems-flaw-exploited-for-remote-code-execution.html)
+  - [New macOS Infinity Stealer uses Nuitka Python payload and ClickFix](https://securityaffairs.com/190147/security/new-macos-infinity-stealer-uses-nuitka-python-payload-and-clickfix.html)
+  - [Russia-linked APT TA446 uses DarkSword exploit to target iPhone users in phishing wave](https://securityaffairs.com/190139/apt/russia-linked-apt-ta446-uses-darksword-exploit-to-target-iphone-users-in-phishing-wave.html)
