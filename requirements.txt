@@ -2,9 +2,6 @@ rich
 requests
 feedparser
 pyfiglet
-schedule
-pyyaml
-python-telegram-bot
 PySocks
 pyrate-limiter
 poetry

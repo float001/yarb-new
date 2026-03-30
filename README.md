@@ -1,6 +1,6 @@
 # yarb (Yet Another Rss Bot)
 
-一个方便获取每日安全资讯的爬虫和推送程序。支持导入 opml 文件，因此也可以订阅其他任何 RSS 源。
+一个方便获取每日安全资讯的爬虫和推送程序。支持导入 OPML 文件，因此也可以订阅其他任何 RSS 源。
 
 **懒人福音，每日自动更新，点击右上角 Watch 即可：[每日安全资讯](./today.md)，[历史存档](./archive)**
 
@@ -8,6 +8,7 @@
   - [安装](#安装)
   - [运行](#运行)
     - [本地搭建](#本地搭建)
+    - [定时任务](#定时任务)
     - [Github Actions](#github-actions)
   - [订阅源](#订阅源)
   - [关注我们](#关注我们)
@@ -19,43 +20,83 @@ $ git clone https://github.com/VulnTotal-Team/yarb.git
 $ cd yarb && ./install.sh
 ```
 
+应用代码位于仓库根目录下的 **`src/`** 包中，安装依赖后从仓库根目录执行模块入口即可。
+
 ## 运行
 
 ### 本地搭建
 
-编辑配置文件 `config.json`，启用所需的订阅源和机器人（key 也可以通过环境变量传入），最好启用代理。
+编辑配置文件 `config.json`，启用所需的订阅源和机器人（密钥类字段可通过环境变量覆盖，见 `config.example.json` 与各 bot 的 `secrets`），按需配置代理。
 
 ```sh
-$ ./yarb.py --help                            
-usage: yarb.py [-h] [--update] [--cron CRON] [--config CONFIG] [--test]
-optional arguments:
+$ python3 -m src --help
+usage: python -m src [-h] [--update] [--config CONFIG] [--test]
+
+YARB — 安全 RSS 聚合
+
+options:
   -h, --help       show this help message and exit
-  --update         Update RSS config file
-  --cron CRON      Execute scheduled tasks every day (eg:"11:00")
-  --config CONFIG  Use specified config file
-  --test           Test bot
-
-# 单次任务
-$ ./yarb.py
-
-# 每日定时任务
-$ nohup ./yarb.py --cron 11:00 > run.log 2>&1 &
+  --update         Update RSS OPML files from remote
+  --config CONFIG  Path to config.json
+  --test           Test bot with fake data
 ```
+
+```sh
+# 单次抓取并推送（默认读取仓库根目录的 config.json）
+$ python3 -m src
+
+# 指定配置文件
+$ python3 -m src --config /path/to/config.json
+
+# 从远程更新 OPML 后再跑任务
+$ python3 -m src --update
+
+# 使用假数据测试机器人推送
+$ python3 -m src --test
+```
+
+### 定时任务
+
+程序本身不包含内置定时调度。需要每日固定时间运行时，请使用系统 **crontab**、**systemd timer** 或同类方式，在预定时间执行 `python3 -m src`（并确保工作目录为仓库根目录，或配合 `--config` 指定配置路径）。
+
+**Cron 里环境变量很少**，且**不会加载 `~/.bashrc`**，请勿依赖 `~/.bashrc` 里的 `export`。请用下面任一方式（推荐 **仓库根目录的 `run-yarb.sh` + `.env`**）：
+
+1. **`.env` + `run-yarb.sh`（推荐）**  
+   复制 `.env.example` 为 `.env`，填入密钥（已在 `.gitignore` 中）。首次执行：`chmod +x run-yarb.sh`。定时任务示例：
+
+```cron
+0 10 * * * /path/to/yarb/run-yarb.sh >> /path/to/yarb/run.log 2>&1
+```
+
+若使用 **venv**，请把 `run-yarb.sh` 最后一行里的 `python3` 改成该 venv 下的解释器路径（或在 crontab 里设置 `PATH` 使 `python3` 指向 venv）。
+
+2. **在 crontab 里写环境变量**（写在任务行上方，同一用户生效）：
+
+```cron
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+LARK_KEY=你的token
+DEEPSEEK_API_KEY=sk-xxxx
+GITHUB_TOKEN=ghp_xxxx
+
+0 10 * * * cd /path/to/yarb && /usr/bin/python3 -m src >> /path/to/yarb/run.log 2>&1
+```
+
+3. **systemd timer / service**：在 `Environment=` 或 `EnvironmentFile=-/path/to/yarb/.env` 里配置，比 cron 更易管理环境与日志。
+
+`config.json` 里各 bot 的 `secrets` 字段（如 `LARK_KEY`、`FEISHU_KEY`）必须与你在环境中 **export 的变量名一致**；程序启动时会读这些环境变量覆盖配置中的 `key` 等字段。
 
 ### Github Actions
 
 利用 Github Actions 提供的服务，你只需要 fork 本项目，在 Settings 中添加 secrets，即可完成部署。
 
-目前支持的推送机器人及对应的 secrets：
+目前支持的推送渠道及对应的 **secrets**（名称需与 `config.json` 里 `bot.*.secrets` 一致，可按需调整）：
 
-- [邮件机器人](https://service.mail.qq.com/cgi-bin/help?subtype=1&&id=28&&no=1001256)
-  - `MAIL_KEY`（需要申请授权码，订阅较多时推荐）
-  - `MAIL_RECEIVER`（可选，接收人，以“,”分隔）
 - [飞书群机器人](https://open.feishu.cn/document/ukTMukTMukTM/ucTM5YjL3ETO24yNxkjN)：`FEISHU_KEY`
+- [飞书/Lark 自定义机器人（摘要等）](https://open.feishu.cn/document/client-docs/bot-v3/add-custom-bot)：`LARK_KEY`（字段与上方飞书群相同：`secrets` + `key`；`key` 可为完整 Webhook URL，否则为 token 并与代码内建前缀拼接）
 - [企业微信群机器人](https://developer.work.weixin.qq.com/document/path/91770)：`WECOM_KEY`
-- [钉钉群机器人](https://open.dingtalk.com/document/robots/custom-robot-access)：`DINGTALK_KEY`（机器人安全设置可以使用“自定义关键词”，设置为“Yarb”）
-- [QQ群机器人](https://github.com/Mrs4s/go-cqhttp)：`QQ_KEY`（需要关闭登录设备锁）
-- [Telegram机器人](https://core.telegram.org/bots/api): `TELEGRAM_KEY`（需要代理）
+- [钉钉群机器人](https://open.dingtalk.com/document/robots/custom-robot-access)：`DINGTALK_KEY`（机器人安全设置可以使用「自定义关键词」，设置为「Yarb」）
+- [Telegram 机器人](https://core.telegram.org/bots/api)：`TELEGRAM_KEY`（若需代理，请在 `config.json` 的 `proxy` 中配置）
 
 ## 订阅源
 

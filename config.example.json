@@ -1,0 +1,84 @@
+{
+    "proxy": {
+        "url": "http://127.0.0.1:7890",
+        "rss": false,
+        "bot": false
+    },
+
+    "rss": {
+        "CustomRSS": {
+            "enabled": true,
+            "filename": "CustomRSS.opml"
+        }
+    },
+
+    "bot": {
+        "feishu": {
+            "enabled": false,
+            "digest": false,
+            "secrets": "FEISHU_KEY",
+            "key": ""
+        },
+        "wecom": {
+            "enabled": false,
+            "digest": false,
+            "secrets": "WECOM_KEY",
+            "key": ""
+        },
+        "dingtalk": {
+            "enabled": false,
+            "digest": false,
+            "secrets": "DINGTALK_KEY",
+            "key": ""
+        },
+        "telegram": {
+            "enabled": false,
+            "digest": false,
+            "secrets": "TELEGRAM_KEY",
+            "chat_id": [],
+            "key": ""
+        },
+        "lark": {
+            "enabled": false,
+            "digest": true,
+            "secrets": "LARK_KEY",
+            "key": ""
+        }
+    },
+
+    "github": {
+        "enabled": false,
+        "token_env": "GITHUB_TOKEN",
+        "token": "",
+        "owner": "your-github-user",
+        "repo": "your-repo",
+        "path": "today-{hour}.md",
+        "branch": "main",
+        "commit_message": "",
+        "api_base": "https://api.github.com",
+        "use_proxy": false,
+        "sync_archive": true,
+        "archive_path_pattern": "archive/{year}/{stamp}.md",
+        "sync_archive_full": false
+    },
+
+    "deepseek": {
+        "enabled": false,
+        "api_key_env": "DEEPSEEK_API_KEY",
+        "api_key": "",
+        "base_url": "https://api.deepseek.com/v1",
+        "model": "deepseek-chat",
+        "use_proxy": false,
+        "max_context_tokens": 4096,
+        "context_safety_margin": 120,
+        "output_tokens_per_title": 32,
+        "max_titles_per_batch": 28,
+        "max_output_tokens_cap": 2048,
+        "debug": false
+    },
+
+    "keywords": {
+        "fetch_within_hours": 12,
+        "exclude": ["招聘"]
+    }
+}
