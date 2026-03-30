@@ -1,3 +1,126 @@
 # 每日安全资讯（2026-03-30 14:00）
 
 - 2Libra 社区 - 今日热议
+- unSafe.sh - 不安全
+  - [嘶吼安全动态｜国家安全部：搜索引擎排名遭 “投毒”，恶意链接暗藏窃取风险 谷歌发布高风险Chrome安全更新](https://buaq.net/go-406089.html)
+  - [ShinyHunters 声称入侵欧盟委员会](https://buaq.net/go-406090.html)
+  - [ISC Stormcast For Monday, March 30th, 2026 https://isc.sans.edu/podcastdetail/9870, (Mon, Mar 30th)](https://buaq.net/go-406079.html)
+  - [攻击者滥用.arpa 特殊域名与IPv6反向DNS实施钓鱼攻击](https://buaq.net/go-406088.html)
+  - [爱泼斯坦受害者起诉谷歌与政府涉泄露个资](https://buaq.net/go-406095.html)
+  - [Smart Slider 插件文件读取漏洞影响 50 万 WordPress 网站](https://buaq.net/go-406091.html)
+  - [FBI 确认局长帕特尔个人邮箱遭入侵](https://buaq.net/go-406092.html)
+  - [Telnyx PyPI 包遭入侵：恶意代码隐藏于 WAV 音频文件](https://buaq.net/go-406096.html)
+  - [Citrix NetScaler 关键漏洞遭主动侦察，内存越界读取风险加剧](https://buaq.net/go-406097.html)
+  - [DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)](https://buaq.net/go-406080.html)
+  - [Planning a spring break trip? Don’t fall for these 7 travel scams](https://buaq.net/go-406108.html)
+  - [FIFA World Cup 2026: A Match Between Fans and Scammers](https://buaq.net/go-406105.html)
+  - [get access to telegram acc of someone by a stream discord? heard about that](https://buaq.net/go-406067.html)
+  - [Attribute-Based Access Control for AI Capability Negotiation](https://buaq.net/go-406082.html)
+  - [威努特全流程数据安全方案，多重防线守护企业数据](https://buaq.net/go-406083.html)
+  - [新型 Infinity Stealer 恶意软件利用 ClickFix 诱骗窃取 macOS 数据](https://buaq.net/go-406094.html)
+  - [What’s an OPSEC mistake that seems harmless but could realistically be exploited?](https://buaq.net/go-406111.html)
+  - [The Hidden Tracking Risk Inside Your Tires](https://buaq.net/go-406106.html)
+  - [Microsoft’s March Security Update of High-Risk Vulnerability Notice for Multiple Products](https://buaq.net/go-406107.html)
+  - [RSAC 2026大会上的重磅产品](https://buaq.net/go-406110.html)
+  - [Quick 15 min interview for ethical hacking class](https://buaq.net/go-406112.html)
+  - [一次意外的接口测试](https://buaq.net/go-406109.html)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [攻击者滥用.arpa 特殊域名与IPv6反向DNS实施钓鱼攻击](https://www.4hou.com/posts/Zg5g)
+  - [嘶吼安全动态｜国家安全部：搜索引擎排名遭 “投毒”，恶意链接暗藏窃取风险 谷歌发布高风险Chrome安全更新](https://www.4hou.com/posts/kgJJ)
+- TechCrunch
+- The Verge
+- Sec-News 安全文摘
+  - [原域名已变更且将在2024年彻底废弃，请访问 https://govuln.com/news/ 查看新的RSS订阅](https://govuln.com/news/url/x8dB)
+- Emergent Minds | paddo.dev
+- 量子位
+  - [龙虾安全被3层硬核架构焊死了！一份面向开发者的硬核生存指南](https://www.qbitai.com/2026/03/393226.html)
+- OpenAI News
+- 少数派
+  - [派早报：英文维基百科正式禁止 AI 参与编写](https://sspai.com/post/108044)
+- 爱范儿
+- 36氪
+  - [市场监管总局：推动研究制定《禁止网络不正当竞争条例》](https://36kr.com/newsflashes/3744990505058310?f=rss)
+  - [市场监管总局：着力提升对网络不正当竞争行为的常态化监管水平](https://36kr.com/newsflashes/3744982044688644?f=rss)
+  - [蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复](https://36kr.com/newsflashes/3744930102149120?f=rss)
+- Daring Fireball
+- Simon Willison's Weblog
+  - [Python Vulnerability Lookup](https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything)
+- HackerNoon
+  - [How to Integrate Pi-hole With Tailscale to Protect Your Privacy](https://hackernoon.com/how-to-integrate-pi-hole-with-tailscale-to-protect-your-privacy?source=rss)
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Exposure of Resource to Wrong Sphere in Linuxfoundation Containerd exploit](https://sploitus.com/exploit?id=3AD793C8-A4F5-5A23-B805-4D239A05EEDC&utm_source=rss&utm_medium=rss)
+  - [fissure exploit](https://sploitus.com/exploit?id=F9DAFA16-10C6-5793-8EFC-6ECD89C930F1&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Ghost exploit](https://sploitus.com/exploit?id=DE7C7340-4852-590A-92BC-B6C31FAA17B7&utm_source=rss&utm_medium=rss)
+  - [test-xss exploit](https://sploitus.com/exploit?id=445F8CB5-D0CD-53D4-A030-4F47F5712BEB&utm_source=rss&utm_medium=rss)
+  - [RegPwnBOF exploit](https://sploitus.com/exploit?id=930D6CE1-864B-5627-AC4D-F2FBA5E24A0E&utm_source=rss&utm_medium=rss)
+- 威努特安全网络
+  - [威努特全流程数据安全方案，多重防线守护企业数据](https://mp.weixin.qq.com/s?__biz=MzAwNTgyODU3NQ==&mid=2651141157&idx=1&sn=033a4949885bef931f03bc3d5c2c297c)
+- 极客公园
+- 威胁猎人Threat Hunter
+  - [从“信息引用”到“认知争夺”：GEO污染正在成为品牌治理的隐形战场](https://mp.weixin.qq.com/s?__biz=MzI3NDY3NDUxNg==&mid=2247503074&idx=1&sn=c1216c5cc600ef1f0dabf3476f727d97)
+- Daily CyberSecurity
+  - [Infiltrating the Infiltrators: Inside the Florida “Laptop Farm” and the DPRK’s Failed Strike on a Cyber Firm](https://securityonline.info/dprk-it-worker-laptop-farm-nisos-insider-threat-ai-scam/)
+  - [The Spider’s Web: How Iranian Hackers Compromised FBI Director Kash Patel’s Personal Gmail](https://securityonline.info/fbi-director-kash-patel-personal-email-hack-handala-team/)
+  - [The Quantum Apocalypse 2029: Why Google is Rushing to Build an “Unholy Fortress” for Android](https://securityonline.info/google-q-day-2029-android-post-quantum-cryptography-roadmap/)
+  - [The Stealth Skimmer: How Hackers Weaponized WebRTC to Bypass PCI Security and Siphon Credit Cards](https://securityonline.info/webrtc-web-skimming-magecart-bypass-csp-waf-2026/)
+  - [The “Gentlemen” Ransomware Toolkit and the Lethal z1.bat Pre-Encryption Weapon](https://securityonline.info/the-gentlemen-ransomware-toolkit-z1-bat-scorched-earth-script/)
+  - [The CVE Watchtower: Weekly Threat Intelligence Briefing (March 23 – March 29, 2026)](https://securityonline.info/weekly-vulnerability-roundup-march-23-29-2026-cisa-kev-trivy/)
+  - [Pay2Key’s New Linux Ransomware Strips Server Defenses to Hijack x64 and ARM64 Infrastructure](https://securityonline.info/pay2key-linux-ransomware-x64-arm64-server-protection/)
+  - [Unmasking the PhantomVAI Framework’s Fileless Assault on Corporate Defenses](https://securityonline.info/phantomvai-fileless-malware-framework-levelblue-spiderlabs-analysis/)
+- 安全牛
+  - [警惕 OpenClaw：AI 主权代理时代，网络安全迎来致命第四维](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140919&idx=1&sn=d2f06eb3c17213fb62a94937c80ab07b)
+  - [《AI模型安全评估及围栏技术应用指南》 调研正式启动，诚邀厂商共筑AI安全生态！](https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651140919&idx=2&sn=17b07074b85e47bf4a954cbc8232c1d7)
+- HackerNews
+  - [ShinyHunters 声称入侵欧盟委员会](https://hackernews.cc/archives/63969)
+  - [Smart Slider 插件文件读取漏洞影响 50 万 WordPress 网站](https://hackernews.cc/archives/63968)
+  - [FBI 确认局长帕特尔个人邮箱遭入侵](https://hackernews.cc/archives/63967)
+  - [新型 Infinity Stealer 恶意软件利用 ClickFix 诱骗窃取 macOS 数据](https://hackernews.cc/archives/63966)
+  - [Telnyx PyPI 包遭入侵：恶意代码隐藏于 WAV 音频文件](https://hackernews.cc/archives/63965)
+  - [Citrix NetScaler 关键漏洞遭主动侦察，内存越界读取风险加剧](https://hackernews.cc/archives/63964)
+- RedPacket Security
+  - [Github Hits Ctrl Z, Decides It Will Train Its Ai With User Data After All](https://www.redpacketsecurity.com/github-hits-ctrl-z-decides-it-will-train-its-ai-with-user-data-after-all/)
+  - [CVE Alert: CVE-2026-5045 – Tenda – FH1201](https://www.redpacketsecurity.com/cve-alert-cve-2026-5045-tenda-fh1201/)
+  - [CVE Alert: CVE-2026-5044 – Belkin – F9K1122](https://www.redpacketsecurity.com/cve-alert-cve-2026-5044-belkin-f9k1122/)
+  - [[INCRANSOM] – Ransomware Victim: Conveyors, Inc[.]](https://www.redpacketsecurity.com/incransom-ransomware-victim-conveyors-inc/)
+  - [Cybersecurity Compliance and Regulations: How to Build Evidence-Driven Security](https://www.redpacketsecurity.com/cybersecurity-compliance-and-regulations-how-to-build-evidence-driven-security/)
+  - [[ALP-001] – Ransomware Victim: knewin[.]com](https://www.redpacketsecurity.com/alp-001-ransomware-victim-knewin-com/)
+  - [Cobalt Strike Beacon Detected – 8[.]219[.]84[.]171:443](https://www.redpacketsecurity.com/cobalt-strike-beacon-detected-8-219-84-171-port-443-3/)
+  - [Cobalt Strike Beacon Detected – 121[.]4[.]92[.]72:5000](https://www.redpacketsecurity.com/cobalt-strike-beacon-detected-121-4-92-72-port-5000-18/)
+  - [Cobalt Strike Beacon Detected – 156[.]245[.]144[.]203:443](https://www.redpacketsecurity.com/cobalt-strike-beacon-detected-156-245-144-203-port-443-2/)
+  - [Cobalt Strike Beacon Detected – 120[.]76[.]143[.]184:443](https://www.redpacketsecurity.com/cobalt-strike-beacon-detected-120-76-143-184-port-443-7/)
+- 迪哥讲事
+  - [一次意外的接口测试](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247499234&idx=1&sn=31d4885faa624cacab5e69be936ec4f4)
+- defend.network – Daily Threat Briefings
+  - [Daily Threat Briefing – March 30, 2026](https://defend.network/briefings/iran-fbi-director-breach-critical-exploits-2026-03-30.html)
+- VulDB Recent Entries
+  - [CVE-2026-21715 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 File Existence fs.realpathSync.native information disclosure](https://vuldb.com/vuln/354149)
+  - [CVE-2026-21717 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 V8 Handler JSON.parse denial of service](https://vuldb.com/vuln/354148)
+  - [CVE-2026-21714 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 HTTP/2 Server resource consumption](https://vuldb.com/vuln/354147)
+  - [CVE-2026-21713 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 HMAC Verification crypto_hmac.cc memcmp comparison](https://vuldb.com/vuln/354146)
+  - [CVE-2026-21712 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 URL node_url.cc url.format assertion](https://vuldb.com/vuln/354145)
+  - [CVE-2026-21711 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 UDS Server permission](https://vuldb.com/vuln/354144)
+  - [CVE-2026-21710 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 req.headersDistinct denial of service](https://vuldb.com/vuln/354143)
+  - [CVE-2026-33691 | OWASP coreruleset up to 3.3.8/4.24.x Whitespace case sensitivity](https://vuldb.com/vuln/354142)
+  - [CVE-2026-2370 | GitLab Community Edition/Enterprise Edition up to 18.8.6/18.9.2/18.10.0 parameters](https://vuldb.com/vuln/354141)
+  - [CVE-2026-3124 | wpchill Download Monitor Plugin up to 5.1.7 on WordPress executePayment authorization](https://vuldb.com/vuln/354140)
+  - [CVE-2025-15036 | MLflow up to 3.8.x dbconnect_artifact_cache.py extract_archive_to_dir path traversal](https://vuldb.com/vuln/354139)
+  - [CVE-2026-4946 | NSA Ghidra up to 12.0.2 Binary os command injection (GHSA-mc3p-mq2p-xw6v)](https://vuldb.com/vuln/354138)
+  - [CVE-2026-0562 | parisneo lollms up to 2.1.x respond_request authorization](https://vuldb.com/vuln/354137)
+  - [CVE-2026-0560 | parisneo lollms up to 2.1.x export-content _download_image_to_temp server-side request forgery](https://vuldb.com/vuln/354136)
+  - [CVE-2026-4176 | SHAY perl up to 5.43.8 Compress Compress::Raw vulnerable third-party component](https://vuldb.com/vuln/354135)
+  - [CVE-2026-0558 | parisneo lollms up to 2.1.x Endpoint /api/files/extract-text get_current_active_user improper authentication](https://vuldb.com/vuln/354134)
+  - [CVE-2025-7741 | Yokogawa Electric CENTUM VP up to R5.04.20/R6.12.00/R7.01.00 hard-coded password](https://vuldb.com/vuln/354133)
+- 人言兑
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+  - [柬埔寨打击网诈以挽回中国游客信心](https://blog.upx8.com/%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%89%93%E5%87%BB%E7%BD%91%E8%AF%88%E4%BB%A5%E6%8C%BD%E5%9B%9E%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BF%A1%E5%BF%83)
+  - [爱泼斯坦受害者起诉谷歌与政府涉泄露个资](https://blog.upx8.com/%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E5%8F%97%E5%AE%B3%E8%80%85%E8%B5%B7%E8%AF%89%E8%B0%B7%E6%AD%8C%E4%B8%8E%E6%94%BF%E5%BA%9C%E6%B6%89%E6%B3%84%E9%9C%B2%E4%B8%AA%E8%B5%84)
+- 安全行者老霍
+  - [RSAC 2026大会上的重磅产品](https://mp.weixin.qq.com/s?__biz=Mzg3NjU4MDI4NQ==&mid=2247486313&idx=1&sn=163d772b61ef20e9323cb2627b6168c5)
+- Over Security - Cybersecurity news aggregator
+  - [European Commission Confirms Cyberattack, Probes Possible Data Theft from Websites](https://thecyberexpress.com/european-commission-cyberattack/)
+  - [FBI confirms hack of Director Patel's personal email inbox](https://www.bleepingcomputer.com/news/security/fbi-confirms-hack-of-director-patels-personal-email-inbox/)
+- SANS Internet Storm Center, InfoCON: green
+  - [ISC Stormcast For Monday, March 30th, 2026 https://isc.sans.edu/podcastdetail/9870, (Mon, Mar 30th)](https://isc.sans.edu/diary/rss/32844)
+  - [DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)](https://isc.sans.edu/diary/rss/32840)
+- ICT Security Magazine
+  - [Attacchi informatici ai dispositivi medicali: rischi per pazienti e ospedali](https://www.ictsecuritymagazine.com/articoli/dispositivi-medicali/)
