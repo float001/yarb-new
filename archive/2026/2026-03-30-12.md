@@ -1,3 +1,66 @@
 # 每日安全资讯（2026-03-30 12:00）
 
 - 2Libra 社区 - 今日热议
+- Simon Willison's Weblog
+  - [Python Vulnerability Lookup](https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything)
+- Daring Fireball
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Missing Authentication for Critical Function in Mcpjam Inspector exploit](https://sploitus.com/exploit?id=65C1835A-C7F0-57AF-B65F-71DCB9C75FBC&utm_source=rss&utm_medium=rss)
+  - [Exploit for Code Injection in Craftcms Craft_Cms exploit](https://sploitus.com/exploit?id=F7C78CE4-C5D3-5E0B-BD38-4E48F9F8B556&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Read in Microsoft exploit](https://sploitus.com/exploit?id=6E243196-2193-50DF-B07B-C3CAC0F3391A&utm_source=rss&utm_medium=rss)
+  - [Exploit for Exposure of Resource to Wrong Sphere in Linuxfoundation Containerd exploit](https://sploitus.com/exploit?id=3AD793C8-A4F5-5A23-B805-4D239A05EEDC&utm_source=rss&utm_medium=rss)
+  - [fissure exploit](https://sploitus.com/exploit?id=F9DAFA16-10C6-5793-8EFC-6ECD89C930F1&utm_source=rss&utm_medium=rss)
+  - [Exploit for SQL Injection in Ghost exploit](https://sploitus.com/exploit?id=DE7C7340-4852-590A-92BC-B6C31FAA17B7&utm_source=rss&utm_medium=rss)
+  - [test-xss exploit](https://sploitus.com/exploit?id=445F8CB5-D0CD-53D4-A030-4F47F5712BEB&utm_source=rss&utm_medium=rss)
+- unSafe.sh - 不安全
+- Sec-News 安全文摘
+- Emergent Minds | paddo.dev
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [攻击者滥用.arpa 特殊域名与IPv6反向DNS实施钓鱼攻击](https://www.4hou.com/posts/Zg5g)
+  - [嘶吼安全动态｜国家安全部：搜索引擎排名遭 “投毒”，恶意链接暗藏窃取风险 谷歌发布高风险Chrome安全更新](https://www.4hou.com/posts/kgJJ)
+- The Verge
+- HackerNoon
+- Hacker News: Front Page
+- 量子位
+  - [Claude 90分钟挖穿20年漏洞！5w星“安全”系统跌下神坛](https://www.qbitai.com/2026/03/393186.html)
+- 36氪
+- Machine Learning
+- 少数派
+- 爱范儿
+- 威努特安全网络
+- TechCrunch
+- Daily CyberSecurity
+  - [The Quantum Apocalypse 2029: Why Google is Rushing to Build an “Unholy Fortress” for Android](https://securityonline.info/google-q-day-2029-android-post-quantum-cryptography-roadmap/)
+  - [The Stealth Skimmer: How Hackers Weaponized WebRTC to Bypass PCI Security and Siphon Credit Cards](https://securityonline.info/webrtc-web-skimming-magecart-bypass-csp-waf-2026/)
+  - [The “Gentlemen” Ransomware Toolkit and the Lethal z1.bat Pre-Encryption Weapon](https://securityonline.info/the-gentlemen-ransomware-toolkit-z1-bat-scorched-earth-script/)
+  - [Pay2Key’s New Linux Ransomware Strips Server Defenses to Hijack x64 and ARM64 Infrastructure](https://securityonline.info/pay2key-linux-ransomware-x64-arm64-server-protection/)
+- VulDB Recent Entries
+  - [CVE-2026-5107 | FRRouting FRR up to 10.5.1 EVPN Type-2 Route bgpd/bgp_evpn.c process_type2_route access control (ID 21098)](https://vuldb.com/vuln/354132)
+  - [CVE-2026-5106 | code-projects Exam Form Submission 1.0 /admin/update_fst.php sname cross site scripting](https://vuldb.com/vuln/354131)
+  - [CVE-2026-5105 | Totolink A3300R 17.0.0cu.557_b20221024 Parameter /cgi-bin/cstecgi.cgi setVpnPassCfg pptpPassThru command injection](https://vuldb.com/vuln/354130)
+  - [CVE-2026-5104 | Totolink A3300R 17.0.0cu.557_b20221024 /cgi-bin/cstecgi.cgi setStaticRoute ip command injection](https://vuldb.com/vuln/354129)
+  - [CVE-2026-5103 | Totolink A3300R 17.0.0cu.557_b20221024 /cgi-bin/cstecgi.cgi setUPnPCfg enable command injection (EUVD-2026-17053)](https://vuldb.com/vuln/354128)
+  - [CVE-2026-5102 | Totolink A3300R 17.0.0cu.557_b20221024 Parameter /cgi-bin/cstecgi.cgi setSmartQosCfg qos_up_bw command injection (EUVD-2026-17050)](https://vuldb.com/vuln/354127)
+  - [CVE-2026-5101 | Totolink A3300R 17.0.0cu.557_b20221024 Parameter /cgi-bin/cstecgi.cgi setLanCfg lanIp command injection (EUVD-2026-17048)](https://vuldb.com/vuln/354126)
+  - [CVE-2026-34005 | Xiongmai AHB7008T-MH-V2 /NBD7024H-P 4.03.R11 DVRIP Protocol system Hostname os command injection (EUVD-2026-17041)](https://vuldb.com/vuln/354125)
+- 迪哥讲事
+- Cyber Kendra
+- RedPacket Security
+  - [CVE Alert: CVE-2026-5045 – Tenda – FH1201](https://www.redpacketsecurity.com/cve-alert-cve-2026-5045-tenda-fh1201/)
+  - [CVE Alert: CVE-2026-5044 – Belkin – F9K1122](https://www.redpacketsecurity.com/cve-alert-cve-2026-5044-belkin-f9k1122/)
+  - [[INCRANSOM] – Ransomware Victim: Conveyors, Inc[.]](https://www.redpacketsecurity.com/incransom-ransomware-victim-conveyors-inc/)
+  - [[ALP-001] – Ransomware Victim: knewin[.]com](https://www.redpacketsecurity.com/alp-001-ransomware-victim-knewin-com/)
+- Pentesting
+- Reverse Engineering
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+- 安全行者老霍
+- Over Security - Cybersecurity news aggregator
+- SANS Internet Storm Center, InfoCON: green
+- Technical Information Security Content & Discussion
+  - [Please, We Beg, Just One Weekend Free Of Appliances (Citrix NetScaler CVE-2026-3055 Memory Overread Part 2) - watchTowr Labs](https://www.reddit.com/r/netsec/comments/1s75kb9/please_we_beg_just_one_weekend_free_of_appliances/)
+- Computer Forensics
+- Information Security
+- Your Open Hacker Community
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [What’s an OPSEC mistake that seems harmless but could realistically be exploited?](https://www.reddit.com/r/netsecstudents/comments/1s7fvy3/whats_an_opsec_mistake_that_seems_harmless_but/)
+- Social Engineering
