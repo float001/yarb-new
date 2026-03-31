@@ -1,0 +1,244 @@
+# 每日安全资讯（2026-03-31 08:00）
+
+- Sploitus.com Exploits RSS Feed
+  - [Exploit for Deserialization of Untrusted Data in Facebook React exploit](https://sploitus.com/exploit?id=A38AB9C3-2937-5B2C-8B91-E57AE1025FD3&utm_source=rss&utm_medium=rss)
+  - [sboms exploit](https://sploitus.com/exploit?id=F9234514-F91A-5CE2-AA97-3AA3B0B64E1D&utm_source=rss&utm_medium=rss)
+  - [spdx-sboms exploit](https://sploitus.com/exploit?id=6C652D8E-AF25-5210-BA5B-9889A6F5142C&utm_source=rss&utm_medium=rss)
+  - [kexploitbinary exploit](https://sploitus.com/exploit?id=A4F45BCE-11DB-5CC8-A2E1-FDB2083D12D5&utm_source=rss&utm_medium=rss)
+  - [Exploit for Improper Enforcement of Message Integrity During Transmission in a Communication Channel in Freeradius exploit](https://sploitus.com/exploit?id=83BDFE54-25FA-5524-8BFC-77426E10F88A&utm_source=rss&utm_medium=rss)
+  - [Exploit for Command Injection in Paloaltonetworks Pan-Os exploit](https://sploitus.com/exploit?id=09B905C6-CD97-54E6-AD97-B0DD1AC4771B&utm_source=rss&utm_medium=rss)
+  - [Exploit for Embedded Malicious Code in Aquasec Setup-Trivy exploit](https://sploitus.com/exploit?id=2C2E9B76-EF2D-55A5-80B8-30E2501BC821&utm_source=rss&utm_medium=rss)
+  - [binary-exploitation-writeups exploit](https://sploitus.com/exploit?id=10F6D58E-81AC-50BE-8209-7BEE425A38E8&utm_source=rss&utm_medium=rss)
+  - [Exploit for Out-of-bounds Write in Apple Ipados exploit](https://sploitus.com/exploit?id=16B187A7-E8B0-57F0-B742-A562E1735D0F&utm_source=rss&utm_medium=rss)
+  - [Exploit for OS Command Injection in Hoverfly exploit](https://sploitus.com/exploit?id=E68A2130-DA61-5049-B54C-BC1A6944CCBF&utm_source=rss&utm_medium=rss)
+- The Old New Thing
+- 2Libra 社区 - 今日热议
+- Qualys Security Blog
+  - [Optimizing Risk Discovery and Remediation with Qualys Gateway Service (QGS)](https://blog.qualys.com/category/product-tech)
+- Sec-News 安全文摘
+- Daring Fireball
+  - [[Sponsor] Material Security](https://material.security/lp-cloud-office-security?utm_source=third-party&utm_medium=email&utm_campaign=20260330-daringfireball)
+- Troy Hunt
+  - [HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API](https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/)
+- Jim Nielsen’s Blog
+- Microsoft Security Blog
+  - [Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio](https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/)
+- Pen Test Partners
+  - [Digital Operational Resilience Act (DORA)](https://www.pentestpartners.com/security-blog/digital-operational-resilience-act-dora/)
+- Marcus on AI
+- The Verge
+  - [Okta&#8217;s CEO is betting big on AI agent identity](https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity)
+- 量子位
+- MIT Technology Review
+- Simon Willison's Weblog
+- Pluralistic: Daily links from Cory Doctorow
+- SecWiki News
+  - [SecWiki News 2026-03-30 Review](http://www.sec-wiki.com/?2026-03-30)
+- ByteByteGo Newsletter
+- 404 Media
+  - [The Journalist Who Tracked Epstein Island Visitors’ Phones (with Dhruv Mehrotra)](https://www.404media.co/the-journalist-who-tracked-epstein-island-visitors-phones-with-dhruv-mehrotra/)
+- 博客
+- 黑鸟
+  - [同形字符如何被滥用于网络欺诈](https://mp.weixin.qq.com/s?__biz=MzAxOTM1MDQ1NA==&mid=2451186106&idx=1&sn=520c42d1a2ddc902047fa95bbab56abb)
+- The Decoder
+- TechCrunch
+  - [Delve whistleblower strikes again, with alleged receipts about ‘fake compliance’](https://techcrunch.com/2026/03/30/delve-whistleblower-strikes-again-with-alleged-receipts-about-fake-compliance/)
+  - [Apple will hide your email address from apps and websites, but not cops](https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/)
+- IEEE Spectrum
+  - [Facial Recognition Is Spreading Everywhere](https://spectrum.ieee.org/facial-recognition-gone-wrong)
+- HackerNoon
+  - [How to Build Secure & Compressed Microservices in Symfony](https://hackernoon.com/how-to-build-secure-and-compressed-microservices-in-symfony?source=rss)
+- WIRED
+- Ars Technica - All content
+- Hacker News: Front Page
+  - [Vulnerability research is cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
+  - [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
+  - [FTC action against Match and OkCupid for deceiving users, sharing personal data](https://www.ftc.gov/news-events/news/press-releases/2026/03/ftc-takes-action-against-match-okcupid-deceiving-users-sharing-personal-data-third-party)
+- Cats with power tools
+  - [The Webs Digital Locks have Never had a Stronger Opponent](https://blog.pixelmelt.dev/the-webs-digital-locks/)
+- 爱范儿
+- NOVASEC
+  - [【工具】EditHttpMsg For Burp UI Demo](https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490838&idx=1&sn=5bc96c6f3d85f67d7d071116f63b5ea4)
+- 36氪
+- 极客公园
+- CERT Recently Published Vulnerability Notes
+  - [VU#655822: Kyverno is vulnerable to server-side request forgery (SSRF)](https://kb.cert.org/vuls/id/655822)
+  - [VU#221883: CrewAI contains multiple vulnerabilities including SSRF, RCE and local file read](https://kb.cert.org/vuls/id/221883)
+- 奇客Solidot–传递最新科技情报
+- RedPacket Security
+  - [CVE Alert: CVE-2026-5155 – Tenda – CH22](https://www.redpacketsecurity.com/cve-alert-cve-2026-5155-tenda-ch22/)
+  - [CVE Alert: CVE-2026-5130 – jhimross – Debugger & Troubleshooter](https://www.redpacketsecurity.com/cve-alert-cve-2026-5130-jhimross-debugger-troubleshooter/)
+  - [CVE Alert: CVE-2026-5150 – code-projects – Accounting System](https://www.redpacketsecurity.com/cve-alert-cve-2026-5150-code-projects-accounting-system/)
+  - [CVE Alert: CVE-2026-5154 – Tenda – CH22](https://www.redpacketsecurity.com/cve-alert-cve-2026-5154-tenda-ch22/)
+  - [CVE Alert: CVE-2026-5147 – YunaiV – yudao-cloud](https://www.redpacketsecurity.com/cve-alert-cve-2026-5147-yunaiv-yudao-cloud/)
+  - [CVE Alert: CVE-2026-5152 – Tenda – CH22](https://www.redpacketsecurity.com/cve-alert-cve-2026-5152-tenda-ch22/)
+  - [CVE Alert: CVE-2026-5102 – Totolink – A3300R](https://www.redpacketsecurity.com/cve-alert-cve-2026-5102-totolink-a3300r/)
+  - [CVE Alert: CVE-2026-5105 – Totolink – A3300R](https://www.redpacketsecurity.com/cve-alert-cve-2026-5105-totolink-a3300r/)
+  - [CVE Alert: CVE-2026-2370 – GitLab – GitLab](https://www.redpacketsecurity.com/cve-alert-cve-2026-2370-gitlab-gitlab/)
+  - [CVE Alert: CVE-2026-5103 – Totolink – A3300R](https://www.redpacketsecurity.com/cve-alert-cve-2026-5103-totolink-a3300r/)
+- VulDB Recent Entries
+  - [CVE-2026-5198 | code-projects Student Membership System 1.0 Admin Login /admin/index.php username/password sql injection](https://vuldb.com/vuln/354296)
+  - [CVE-2026-5197 | code-projects Student Membership System 1.0 /delete_user.php ID sql injection](https://vuldb.com/vuln/354295)
+  - [CVE-2026-5196 | code-projects Student Membership System 1.0 /delete_member.php ID sql injection](https://vuldb.com/vuln/354294)
+  - [CVE-2026-5195 | code-projects Student Membership System 1.0 User Registration sql injection](https://vuldb.com/vuln/354293)
+  - [CVE-2026-34377 | Zebra V5 Transaction signature verification](https://vuldb.com/vuln/354292)
+  - [CVE-2026-34219 | libp2p-gossipsub prior 0.49.4 denial of service](https://vuldb.com/vuln/354291)
+  - [CVE-2026-5059 | aws-mcp-server CLI Command command injection](https://vuldb.com/vuln/354290)
+  - [CVE-2026-5058 | aws-mcp-server command injection](https://vuldb.com/vuln/354289)
+  - [CVE-2026-34558 | ci4-cms-erp ci4ms 0.28.5.0 cross site scripting (GHSA-v77r-xg3p-75g7)](https://vuldb.com/vuln/354288)
+  - [CVE-2026-34557 | ci4-cms-erp ci4ms 0.28.5.0 Permission Management Page cross site scripting (GHSA-rpjr-985c-qhvm)](https://vuldb.com/vuln/354287)
+  - [CVE-2026-27599 | ci4-cms-erp ci4ms 0.28.5.0 Mail Protocol cross site scripting (GHSA-66m2-v9v9-95c3)](https://vuldb.com/vuln/354286)
+  - [CVE-2026-4789 | Kyverno 1.16.0 server-side request forgery](https://vuldb.com/vuln/354285)
+  - [CVE-2026-32884 | randombit botan up to 3.10.x X.509 Certificate certificate validation (GHSA-7c3g-7763-ggj5)](https://vuldb.com/vuln/354284)
+  - [CVE-2026-32877 | randombit botan up to 3.10.x out-of-bounds (GHSA-7jj6-4r42-w9h6)](https://vuldb.com/vuln/354283)
+  - [CVE-2026-33026 | 0xJacky nginx-ui up to 2.3.3 cleartext storage (GHSA-fhh2-gg7w-gwpq)](https://vuldb.com/vuln/354282)
+  - [CVE-2026-21716 | Node.js up to 20.20.1/22.22.1/24.14.0/25.8.1 Promises API FileHandle.chmod/FileHandle.chown file descriptor consumption (Nessus ID 304242)](https://vuldb.com/vuln/354281)
+  - [CVE-2026-33995 | FreeRDP up to 3.24.1 kerberos.c kerberos_AcceptSecurityContext double free](https://vuldb.com/vuln/354280)
+  - [CVE-2026-33987 | FreeRDP up to 3.24.1 persistent.c persistent_cache_read_entry_v3 heap-based overflow](https://vuldb.com/vuln/354279)
+  - [CVE-2026-33982 | FreeRDP up to 3.24.1 winpr_aligned_offset_recalloc out-of-bounds](https://vuldb.com/vuln/354278)
+  - [CVE-2026-33986 | FreeRDP up to 3.24.1 libfreerdp/codec/h264.c yuv_ensure_buffer heap-based overflow](https://vuldb.com/vuln/354277)
+  - [CVE-2026-33985 | FreeRDP up to 3.24.1 out-of-bounds](https://vuldb.com/vuln/354276)
+  - [CVE-2026-33984 | FreeRDP up to 3.24.1 libfreerdp/codec/clear.c resize_vbar_entry heap-based overflow](https://vuldb.com/vuln/354275)
+  - [CVE-2026-33977 | FreeRDP up to 3.24.1 assertion](https://vuldb.com/vuln/354274)
+  - [CVE-2026-33952 | FreeRDP up to 3.24.1 rts_read_auth_verifier_no_checks auth_length assertion](https://vuldb.com/vuln/354273)
+  - [CVE-2026-32883 | randombit botan up to 3.10.x X509 Path Validation signature verification (GHSA-9j2j-hqmc-hf5x)](https://vuldb.com/vuln/354272)
+  - [CVE-2026-30308 | HAI Build Code Generator injection (ID 10)](https://vuldb.com/vuln/354271)
+  - [CVE-2026-32696 | NanoMQ MQTT Broker up to 0.24.6 set_data null pointer dereference (GHSA-77f4-wvq8-mp3p)](https://vuldb.com/vuln/354270)
+  - [CVE-2026-30306 | SakaDev injection](https://vuldb.com/vuln/354269)
+  - [CVE-2026-25627 | NanoMQ MQTT Broker up to 0.24.7 MQTT Packet out-of-bounds (GHSA-w4rh-v3h2-j29x)](https://vuldb.com/vuln/354268)
+  - [CVE-2026-31946 | OpenOlat up to 20.2.4 JWKS Endpoint JSONWebToken.parse improper authentication (GHSA-v8vp-x4q4-2vch)](https://vuldb.com/vuln/354267)
+  - [CVE-2026-33983 | FreeRDP up to 3.24.1 progressive_decompress_tile_upgrade integer overflow](https://vuldb.com/vuln/354266)
+  - [CVE-2026-32794 | Apache Airflow Provider for Databricks up to 1.11.x certificate validation](https://vuldb.com/vuln/354265)
+  - [CVE-2026-30313 | necboy DSAI-Cline os command injection](https://vuldb.com/vuln/354264)
+  - [CVE-2026-30307 | Roo Code os command injection](https://vuldb.com/vuln/354263)
+  - [CVE-2026-30305 | Syntx Shell Command os command injection](https://vuldb.com/vuln/354262)
+  - [CVE-2026-32275 | Tautulli up to 2.16.x JSONP Call cross site scripting (GHSA-95mg-wpqw-9qxh)](https://vuldb.com/vuln/354261)
+  - [CVE-2026-31804 | Tautulli up to 2.16.x Endpoint /pms_image_proxy img server-side request forgery (GHSA-qj2f-4c4p-wv97)](https://vuldb.com/vuln/354260)
+  - [CVE-2026-4257 | supsysticcom Contact Form by Supsystic Plugin up to 1.7.36 on WordPress registerUndefinedFilterCallback code injection](https://vuldb.com/vuln/354259)
+  - [CVE-2026-31799 | Tautulli up to 2.16.x Admin API Key v2?cmd=get_home_stats section_id/user_id sql injection (GHSA-g47q-8j8w-m63q)](https://vuldb.com/vuln/354258)
+  - [CVE-2026-31831 | Tautulli up to 2.16.x API Endpoint /newsletter/image/images path traversal (GHSA-xp55-2pf4-fv8m)](https://vuldb.com/vuln/354257)
+  - [CVE-2026-28505 | Tautulli up to 2.16.x notification_handler.py str_eval code injection (GHSA-m62j-gwm9-7p8m)](https://vuldb.com/vuln/354256)
+  - [CVE-2026-28228 | OpenOlat up to 19.1.30/20.1.17/20.2.4 Email Template special elements used in a template engine (GHSA-55qg-vvgj-ffh4)](https://vuldb.com/vuln/354255)
+  - [CVE-2026-5186 | Nothings stb up to 2.30 Multi-frame GIF File stb_image.h stbi__load_gif_main double free](https://vuldb.com/vuln/354254)
+  - [CVE-2026-5185 | Nothings stb_image up to 2.30 Multi-frame GIF File stb_image.h stbi__gif_load_next heap-based overflow](https://vuldb.com/vuln/354253)
+  - [CVE-2026-5184 | TRENDnet TEW-713RE up to 1.02 /goform/setSysAdm admuser command injection](https://vuldb.com/vuln/354252)
+  - [CVE-2026-5183 | TRENDnet TEW-713RE up to 1.02 /goform/addRouting sub_421494 dest command injection](https://vuldb.com/vuln/354251)
+  - [CVE-2026-5182 | SourceCodester Teacher Record System 1.0 Parameter searchteacher sql injection](https://vuldb.com/vuln/354250)
+  - [CVE-2026-5181 | SourceCodester Simple Doctors Appointment System up to 1.0 ajax.php?action=save_category img unrestricted upload](https://vuldb.com/vuln/354249)
+  - [CVE-2026-5180 | SourceCodester Simple Doctors Appointment System 1.0 ajax.php?action=login2 email sql injection](https://vuldb.com/vuln/354248)
+  - [CVE-2026-5179 | SourceCodester Simple Doctors Appointment System 1.0 /admin/login.php Username sql injection](https://vuldb.com/vuln/354247)
+  - [CVE-2026-5178 | Totolink A3300R 17.0.0cu.557_b20221024 /cgi-bin/cstecgi.cgi setIptvCfg vlanPriLan3 command injection](https://vuldb.com/vuln/354246)
+  - [CVE-2026-5177 | Totolink A3300R 17.0.0cu.557_b20221024 /cgi-bin/cstecgi.cgi setWiFiBasicCfg rxRate command injection](https://vuldb.com/vuln/354245)
+  - [CVE-2026-5176 | Totolink A3300R 17.0.0cu.557_b20221024 /cgi-bin/cstecgi.cgi setSyslogCfg provided command injection](https://vuldb.com/vuln/354244)
+  - [CVE-2026-29924 | Grav CMS up to 1.7.x SVG File xml external entity reference](https://vuldb.com/vuln/354243)
+  - [CVE-2026-29925 | Invoice Ninja 5.12.46/5.12.48 CheckDatabaseRequest.php server-side request forgery](https://vuldb.com/vuln/354242)
+  - [CVE-2026-33032 | 0xJacky nginx-ui up to 2.3.5 Model Context Protocol /mcp AuthRequired missing authentication (GHSA-h6c2-x2m2-mwhf)](https://vuldb.com/vuln/354241)
+  - [CVE-2026-3502 | TrueConf Client Application Update code download](https://vuldb.com/vuln/354240)
+  - [CVE-2026-34714 | Vim up to 9.2.0271 File os command injection](https://vuldb.com/vuln/354239)
+  - [CVE-2026-33029 | 0xJacky nginx-ui up to 2.3.3 Web Interface denial of service (GHSA-cp8r-8jvw-v3qg)](https://vuldb.com/vuln/354238)
+  - [CVE-2026-33028 | 0xJacky nginx-ui up to 2.3.3 app.ini race condition (GHSA-m468-xcm6-fxg4)](https://vuldb.com/vuln/354237)
+  - [CVE-2026-33027 | 0xJacky nginx-ui up to 2.3.3 path traversal (GHSA-m8p8-53vf-8357)](https://vuldb.com/vuln/354236)
+  - [CVE-2026-3991 | Broadcom Data Loss Prevention up to 16.1 MP1/25.1 Windows Endpoint inclusion of functionality from untrusted control sphere](https://vuldb.com/vuln/354235)
+  - [CVE-2026-33533 | nicolargo glances XML-RPC Server cross-domain policy](https://vuldb.com/vuln/354234)
+  - [CVE-2026-33030 | 0xJacky Nginx-UI Private Key credentials storage](https://vuldb.com/vuln/354233)
+  - [CVE-2026-27018 | gotenberg Chromium Deny-List path traversal](https://vuldb.com/vuln/354232)
+  - [CVE-2026-3691 | OpenClaw Client PKCE Verifier information disclosure](https://vuldb.com/vuln/354231)
+  - [CVE-2026-3690 | OpenClaw Canvas improper authentication](https://vuldb.com/vuln/354230)
+  - [CVE-2026-3689 | OpenClaw information disclosure](https://vuldb.com/vuln/354229)
+  - [CVE-2026-30077 | OpenAirInterface 2.2.0 AMF denial of service](https://vuldb.com/vuln/354228)
+  - [CVE-2026-33643 | SchemaHero 0.23.0 Parameter column.go mysqlColumnAsInsert column sql injection (EUVD-2026-17137)](https://vuldb.com/vuln/354227)
+  - [CVE-2025-66215 | OpenSC up to 0.26.x USB stack-based overflow](https://vuldb.com/vuln/354226)
+  - [CVE-2025-49010 | OpenSC up to 0.26.x USB stack-based overflow](https://vuldb.com/vuln/354225)
+  - [CVE-2025-66038 | OpenSC up to 0.26.x sc_compacttlv_find_tag buffer over-read](https://vuldb.com/vuln/354224)
+  - [CVE-2025-66037 | OpenSC up to 0.26.x X.509/SPKI sc_pkcs15_pubkey_from_spki_fields out-of-bounds](https://vuldb.com/vuln/354223)
+  - [CVE-2026-29872 | awesome-llm-apps 2026-01-19 GitHub Personal Access Token information disclosure](https://vuldb.com/vuln/354222)
+  - [CVE-2026-4046 | GNU C Library up to up to 2.43 iconv assertion](https://vuldb.com/vuln/354221)
+  - [CVE-2026-2285 | CrewAI 1.0 JSON Loader Tool information disclosure (EUVD-2026-17119)](https://vuldb.com/vuln/354220)
+  - [CVE-2026-29953 | SchemaHero 0.23.0 Parameter column.go columnAsInsert column sql injection (EUVD-2026-17131)](https://vuldb.com/vuln/354219)
+  - [CVE-2026-29597 | DDSN Interactive Acora CMS 10.7.1 file_details.asp access control](https://vuldb.com/vuln/354218)
+  - [CVE-2026-2287 | CrewAI 1.0 Docker routine (EUVD-2026-17123)](https://vuldb.com/vuln/354217)
+  - [CVE-2026-27508 | Smoothwall Express up to 3.1 Update 12 Parameter /redirect.cgi url cross site scripting (EUVD-2026-17127)](https://vuldb.com/vuln/354216)
+  - [CVE-2026-26352 | Smoothwall Express up to 3.1 Update 12 /cgi-bin/vpnmain.cgi VPN_IP cross site scripting (EUVD-2026-17126)](https://vuldb.com/vuln/354215)
+  - [CVE-2026-2286 | CrewAI 1.0 RAG Search Tool server-side request forgery (EUVD-2026-17121)](https://vuldb.com/vuln/354214)
+  - [CVE-2026-29909 | MRCMS 3.1.2 File Management /admin/file/list.do information disclosure (EUVD-2026-17129)](https://vuldb.com/vuln/354213)
+  - [CVE-2026-34472 | ZTE ZXHN H188A 6.0.10P2_TE/6.0.10P3N3_TE Wizard Interface information disclosure](https://vuldb.com/vuln/354212)
+  - [CVE-2026-2275 | CrewAI 1.0 SandboxPython routine (EUVD-2026-17117)](https://vuldb.com/vuln/354211)
+  - [CVE-2026-30561 | SourceCodester Sales and Inventory System 1.0 Parameter add_purchase.php msg cross site scripting](https://vuldb.com/vuln/354210)
+  - [CVE-2026-30559 | SourceCodester Sales and Inventory System 1.0 Parameter add_sales.php msg cross site scripting](https://vuldb.com/vuln/354209)
+  - [CVE-2026-30558 | SourceCodester Sales and Inventory System 1.0 Parameter add_customer.php msg cross site scripting](https://vuldb.com/vuln/354208)
+  - [CVE-2026-30562 | SourceCodester Sales and Inventory System 1.0 Parameter add_stock.php msg cross site scripting](https://vuldb.com/vuln/354207)
+  - [CVE-2026-30560 | SourceCodester Sales and Inventory System 1.0 Parameter add_supplier.php msg cross site scripting](https://vuldb.com/vuln/354206)
+  - [CVE-2026-29954 | KubePlus 4.1.4 webhook/kubeconfiggenerator ResourceComposition chartURL injection (EUVD-2026-17133)](https://vuldb.com/vuln/354205)
+  - [CVE-2026-5170 | MongoDB Server up to 7.0.30/8.0.17/8.2.1 assertion](https://vuldb.com/vuln/354204)
+  - [CVE-2026-30556 | SourceCodester Sales and Inventory System 1.0 Parameter index.php msg cross site scripting (EUVD-2026-17135)](https://vuldb.com/vuln/354203)
+  - [CVE-2026-30557 | SourceCodester Sales and Inventory System 1.0 Parameter add_category.php msg cross site scripting](https://vuldb.com/vuln/354202)
+  - [CVE-2026-30082 | IngEstate Server 11.14.0 Software Package List Page Release note cross site scripting](https://vuldb.com/vuln/354201)
+  - [CVE-2026-30563 | SourceCodester Sales and Inventory System 1.0 POST Request update_details.php Website cross site scripting](https://vuldb.com/vuln/354200)
+  - [CVE-2026-33373 | Zimbra Collaboration Suite 10.0/10.1 cross-site request forgery](https://vuldb.com/vuln/354199)
+  - [CVE-2026-5164 | virtio-win kvm-guest-drivers-windows RhelDoUnMap buffer overflow](https://vuldb.com/vuln/354198)
+  - [CVE-2026-5165 | virtio-win kvm-guest-drivers-windows VirtIO Block Device expired pointer dereference](https://vuldb.com/vuln/354197)
+- Alexander V. Leonov
+  - [March Linux Patch Wednesday](https://avleonov.com/2026/03/30/i012-march-linux-patch-wednesday/)
+- Daily CyberSecurity
+  - [High-Severity RCE Discovered in Foreman’s WebSocket Proxy](https://securityonline.info/foreman-rce-vulnerability-cve-2026-1961-command-injection/)
+  - [Critical 9.6 CVSS OIDC Flaws in OpenBao Turn “Direct Login” Into a Phishing Trap](https://securityonline.info/openbao-critical-oidc-vulnerability-session-hijacking-xss/)
+  - [The Weakest Link: Popular Node.js Config Library “Convict” Hit by Prototype Pollution](https://securityonline.info/node-convict-prototype-pollution-vulnerability-cve-2026-33864/)
+  - [Critical 9.3 CVSS RCE Vulnerability Hit in OpenTelemetry Java Agent](https://securityonline.info/opentelemetry-java-agent-rce-vulnerability-cve-2026-33701/)
+  - [The 30-Year Glitch: RCE and ARM Exploits Uncovered in libpng Reference Library](https://securityonline.info/libpng-vulnerability-rce-arm-neon-cve-2026-33636-cve-2026-33416/)
+- Desync InfoSec
+  - [Apache ActiveMQ漏洞导致LockBit勒索软件攻击事件分析](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247489546&idx=1&sn=c5c6a044f6ddc321b2897d9ce70a3c9b)
+- Sandfly Security Blog RSS Feed
+  - [Automotive Manufacturing Chooses Agentless Linux EDR After Agent-Based Failures](https://sandflysecurity.com/blog/automotive-manufacturing-chooses-agentless-linux-edr-after-agent-based-failures)
+- GuidePoint Security
+  - [IoT Camera Security: The Fixable Threat You Might Not See Coming](https://www.guidepointsecurity.com/blog/iot-camera-security-evolving-threats/)
+- Horizon3.ai
+  - [CVE-2026-3055](https://horizon3.ai/attack-research/vulnerabilities/cve-2026-3055/)
+- Malwarebytes
+  - [New macOS security feature will alert users about possible ClickFix attacks](https://www.malwarebytes.com/blog/news/2026/03/new-macos-security-feature-will-alert-users-about-possible-clickfix-attacks)
+- darkreading
+  - [AI-Powered 'DeepLoad' Malware Steals Credentials, Evades Detection](https://www.darkreading.com/cyberattacks-data-breaches/ai-powered-deepload-steals-credentials-evades-detection)
+  - [F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation](https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation)
+  - [Manufacturing and Healthcare Share Struggles with Passwords](https://www.darkreading.com/cyber-risk/manufacturing-and-healthcare-share-struggles-with-passwords)
+  - [Storm Brews Over Critical, No-Click Telegram Flaw](https://www.darkreading.com/application-security/storm-brews-critical-no-click-telegram-flaw)
+- 黑海洋Wiki | AI机器人硬件开发 | 网络安全攻防实战 | 区块链技术文档教程 - 免费资源平台
+- Over Security - Cybersecurity news aggregator
+  - [Healthcare tech firm CareCloud says hackers stole patient data](https://www.bleepingcomputer.com/news/security/healthcare-tech-firm-carecloud-says-hackers-stole-patient-data/)
+  - [New RoadK1ll WebSocket implant used to pivot on breached networks](https://www.bleepingcomputer.com/news/security/new-roadk1ll-websocket-implant-used-to-pivot-on-breached-networks/)
+  - [Critical Citrix NetScaler memory flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-citrix-netscaler-memory-flaw-actively-exploited-in-attacks/)
+  - [Italian regulator fines financial giant $36 million for data protection failures](https://therecord.media/italian-regulator-fines-financial-giant-36-million)
+  - [L’identità digitale è il bersaglio: l’attacco che segna un cambio di paradigma](https://www.cybersecurity360.it/news/lidentita-digitale-e-il-bersaglio-lattacco-che-segna-un-cambio-di-paradigma/)
+  - [Beyond Compliance: How Financial Institutions Can Meet New Fraud-Sharing Mandates While Respecting Privacy](https://www.group-ib.com/blog/beyond-compliance-fraud-sharing-privacy/)
+  - [Professional Networks Under Attack: Vietnam-Linked Actors Deploy PXA Stealer in Global Infostealer Campaign](https://cyble.com/blog/professional-networks-under-attack-by-infostealer/)
+  - [Apple adds macOS Terminal warning to block ClickFix attacks](https://www.bleepingcomputer.com/news/security/apple-adds-macos-terminal-warning-to-block-clickfix-attacks/)
+  - [AI Act, la semplificazione che complica: meno regole, più incoerenza?](https://www.cybersecurity360.it/news/ai-act-la-semplificazione-che-complica-meno-regole-piu-incoerenza/)
+  - [European Commission downplays ShinyHunters cyberattack impact](https://therecord.media/european-commission-downplays-shinyhunters-cyber-claim)
+  - [How to Evaluate AI SOC Agents: 7 Questions Gartner Says You Should Be Asking](https://www.bleepingcomputer.com/news/security/how-to-evaluate-ai-soc-agents-7-questions-gartner-says-you-should-be-asking/)
+  - [Hybrid Warfare 2026: When Cyber Operations and Kinetic Attacks Converge](https://cyble.com/blog/hybrid-warfare-2026-cyber-kinetic-threats/)
+  - [Forrester Threat Intelligence Landscape: Key Takeaways for Security Leaders](https://flashpoint.io/blog/forrester-threat-intelligence-landscape-key-takeaways-for-security-leaders/)
+  - [Russian court sentences notorious card fraud ringleader ‘Flint’ and 25 associates](https://therecord.media/russia-flint-conviction-payment-fraud)
+  - [Healthcare software firm CareCloud informs SEC of potential patient data leak](https://therecord.media/carecloud-hack-data-breach-sec)
+  - [State Department reissues $10 million reward for info on Iranian hackers](https://therecord.media/iran-hackers-state-department-reward)
+- Krypt3ia
+  - [Effectiveness Assessment of the Handala Cyber-Enabled Influence Campaigns](https://krypt3ia.wordpress.com/2026/03/30/effectiveness-assessment-of-the-handala-cyber-enabled-influence-campaigns/)
+- bellingcat
+- Microsoft Security Blog
+  - [Addressing the OWASP Top 10 Risks in Agentic AI with Microsoft Copilot Studio](https://www.microsoft.com/en-us/security/blog/2026/03/30/addressing-the-owasp-top-10-risks-in-agentic-ai-with-microsoft-copilot-studio/)
+- ICT Security Magazine
+  - [Passkeys in azienda: guida tecnica alla migrazione FIDO2 per il CISO italiano](https://www.ictsecuritymagazine.com/notizie/passkeys-in-azienda/)
+- SANS Internet Storm Center, InfoCON: green
+  - [DShield (Cowrie) Honeypot Stats and When Sessions Disconnect, (Mon, Mar 30th)](https://isc.sans.edu/diary/rss/32840)
+  - [TeamPCP Supply Chain Campaign: Update 004 - Databricks Investigating Alleged Compromise, TeamPCP Runs Dual Ransomware Operations, and AstraZeneca Data Released, (Mon, Mar 30th)](https://isc.sans.edu/diary/rss/32846)
+- The Hacker News
+  - [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
+  - [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
+  - [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+  - [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
+  - [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+- Security Affairs
+  - [China-Linked groups target Southeast Asian government with advanced malware in 2025](https://securityaffairs.com/190174/apt/china-linked-groups-target-southeast-asian-government-with-advanced-malware-in-2025.html)
+  - [It’s a mystery … alleged unpatched Telegram zero-day allows device takeover, but Telegram denies](https://securityaffairs.com/190167/security/its-a-mystery-alleged-unpatched-telegram-zero-day-allows-device-takeover-but-telegram-denies.html)
+- Troy Hunt's Blog
+  - [HIBP Mega Update: Passkeys, k-Anonymity Searches, Massive Speed Enhancements and a Bulk Domain Verification API](https://www.troyhunt.com/passkeys-k-anonymity-searches-massive-speed-enhancements-bulk-domain-verification-api/)
+- Deeplinks
+  - [Welcome, Daily Show Viewers! Learn More About EFF and Privacy's Defender](https://www.eff.org/deeplinks/2026/03/welcome-daily-show-viewers-learn-more-about-eff-and-privacys-defender)
+  - [UK Politicians Continue to Miss the Point in Latest Social Media Ban Proposal](https://www.eff.org/deeplinks/2026/03/uk-politicians-continue-miss-point-latest-social-media-ban-proposal)
